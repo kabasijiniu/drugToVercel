@@ -1,7 +1,7 @@
 <template>
   <div>
 
-    <TableBase :data="item.ret_except_drug_list" :company="item.company_name" v-for="(item,index) in tableData" :key="index"/>
+    <TableBase :data="item.ret_except_drug_list" :company="item.company_name"  :update_date="item.start_date" v-for="(item,index) in tableData" :key="index"/>
   </div>
 </template>
 

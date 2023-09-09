@@ -1,6 +1,6 @@
 <template>
   <div class="table-wrapper">
-    <h2>{{company}}</h2>
+    <h2>{{company +" " +update_date}}</h2>
     <el-table :data="tableData" style="width: 100%" empty-text="核对无异常">
       <el-table-column prop="name" label="药品名称" />
       <el-table-column prop="code" label="医保编码" />
@@ -15,7 +15,7 @@
 
 <script setup>
 import {ref, defineProps, watch} from 'vue'
-const props = defineProps(['data','company']);
+const props = defineProps(['data','company','update_date']);
 const tableData = ref(props.data);
 const isCompanyColumnVisible = ref(false);
 
