@@ -1,96 +1,26 @@
 [
   {
-    "table_head": [
-      "药品名称",
-      "医保编码",
-      "后台价格",
-      "子系统价格",
-      "核对结果"
-    ],
     "ret_except_drug_list": [
       {
-        "name": "致康胶囊",
-        "code": "ZA11AAZ0295010202510",
-        "price": 37.46,
-        "yb_price": 36.15,
-        "hou_tai_company_name": "",
-        "yb_company_name": "西安千禾药业股份有限公司",
+        "name": "奥雷巴替尼片",
+        "code": "XL01XEA368A001010181522",
+        "price": 625.0,
+        "yb_price": 239.0,
+        "hou_tai_company_name": "江苏宣泰药业有限公司",
+        "yb_company_name": "江苏宣泰药业有限公司",
         "result": "价格不一致"
       },
       {
-        "name": "痔康胶囊",
-        "code": "ZB01CAZ0305010103312",
-        "price": 36.15,
-        "yb_price": 41.03,
-        "hou_tai_company_name": "",
-        "yb_company_name": "长春海外制药集团有限公司",
+        "name": "沙库巴曲缬沙坦钠片",
+        "code": "XC09DXS255A001010100100",
+        "price": 44.52,
+        "yb_price": 3.18,
+        "hou_tai_company_name": "北京诺华制药有限公司",
+        "yb_company_name": "Novartis Pharma Stein AG",
         "result": "价格不一致"
       }
     ],
-    "company_name": "张家口第五医院"
-  },
-  {
-    "table_head": [
-      "药品名称",
-      "医保编码",
-      "后台价格",
-      "子系统价格",
-      "核对结果"
-    ],
-    "ret_except_drug_list": [],
-    "company_name": "秦皇岛华润"
-  },
-  {
-    "table_head": [
-      "药品名称",
-      "医保编码",
-      "后台价格",
-      "子系统价格",
-      "核对结果"
-    ],
-    "ret_except_drug_list": [],
-    "company_name": "石家庄神威"
-  },
-  {
-    "table_head": [
-      "药品名称",
-      "医保编码",
-      "后台价格",
-      "子系统价格",
-      "核对结果"
-    ],
-    "ret_except_drug_list": [
-      {
-        "name": "蒲地蓝消炎片",
-        "code": "ZA04BAP0062010605867",
-        "price": 17.0,
-        "yb_price": 4.2,
-        "hou_tai_company_name": "",
-        "yb_company_name": "甘肃岷海制药有限责任公司",
-        "result": "价格不一致"
-      }
-    ],
-    "company_name": "石家庄润溢祥"
-  },
-  {
-    "table_head": [
-      "药品名称",
-      "医保编码",
-      "后台价格",
-      "子系统价格",
-      "核对结果"
-    ],
-    "ret_except_drug_list": [
-      {
-        "name": "罗沙司他胶囊",
-        "code": "XB03XAL373E001020180523",
-        "price": 54.0,
-        "yb_price": 162.0,
-        "hou_tai_company_name": "",
-        "yb_company_name": "珐博进(中国)医药技术开发有限公司",
-        "result": "价格不一致"
-      }
-    ],
-    "company_name": "秦皇岛乐仁堂"
+    "company_name": "秦皇岛华润",
+    "start_date": "2023-09-09 18:10"
   }
 ]
