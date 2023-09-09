@@ -1,26 +1,26 @@
 [
-  {
-    "ret_except_drug_list": [
-      {
-        "name": "奥雷巴替尼片",
-        "code": "XL01XEA368A001010181522",
-        "price": 625.0,
-        "yb_price": 239.0,
-        "hou_tai_company_name": "江苏宣泰药业有限公司",
-        "yb_company_name": "江苏宣泰药业有限公司",
-        "result": "价格不一致"
-      },
-      {
-        "name": "沙库巴曲缬沙坦钠片",
-        "code": "XC09DXS255A001010100100",
-        "price": 44.52,
-        "yb_price": 3.18,
-        "hou_tai_company_name": "北京诺华制药有限公司",
-        "yb_company_name": "Novartis Pharma Stein AG",
-        "result": "价格不一致"
-      }
-    ],
-    "company_name": "秦皇岛华润",
-    "start_date": "2023-09-09 18:10"
-  }
+    {
+        "ret_except_drug_list": [
+            {
+                "name": "\u5965\u96f7\u5df4\u66ff\u5c3c\u7247",
+                "code": "XL01XEA368A001010181522",
+                "price": 625.0,
+                "yb_price": 239.0,
+                "hou_tai_company_name": "\u6c5f\u82cf\u5ba3\u6cf0\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "yb_company_name": "\u6c5f\u82cf\u5ba3\u6cf0\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "result": "\u4ef7\u683c\u4e0d\u4e00\u81f4"
+            },
+            {
+                "name": "\u6c99\u5e93\u5df4\u66f2\u7f2c\u6c99\u5766\u94a0\u7247",
+                "code": "XC09DXS255A001010100100",
+                "price": 44.52,
+                "yb_price": 3.18,
+                "hou_tai_company_name": "\u5317\u4eac\u8bfa\u534e\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "yb_company_name": "Novartis Pharma Stein AG",
+                "result": "\u4ef7\u683c\u4e0d\u4e00\u81f4"
+            }
+        ],
+        "company_name": "\u79e6\u7687\u5c9b\u534e\u6da6",
+        "start_date": "2023-09-09 18:10"
+    }
 ]
