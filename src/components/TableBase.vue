@@ -2,7 +2,6 @@
   <div class="table-wrapper">
     <h1>{{company}}</h1>
     <el-table :data="tableData" style="width: 100%">
-
       <el-table-column prop="name" label="药品名称" />
       <el-table-column prop="code" label="医保编码" />
       <el-table-column prop="price" label="后台价格" />
