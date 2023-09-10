@@ -8,10 +8,18 @@
 <script setup>
 import JsonData from "../data/data.json";
 import TableBase from "./TableBase.vue";
-import {ref} from "vue";
+import {computed, ref, watch} from "vue";
 
 const tableData = ref(JsonData);
-console.log(JsonData);
+
+
+
+
+
+
+
+const isVisible = ref(true);
+
 
 </script>
 
