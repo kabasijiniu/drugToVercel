@@ -18,7 +18,7 @@ import {ref, defineProps, watch, computed} from 'vue'
 const props = defineProps(['data','company','update_date']);
 const data = ref(props.data);
 let tableData = data.value.filter(item => item.wangResult !== "信息一致");
-const isCompanyColumnVisible = ref(false);
+const isCompanyColumnVisible = ref(true);
 
 
 
