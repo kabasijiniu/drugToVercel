@@ -2,6 +2,3567 @@
     {
         "ret_except_drug_list": [
             {
+                "name": "\u8fde\u82b1\u6e05\u54b3\u7247",
+                "code": "",
+                "price": 46.44,
+                "ybPrice": 0,
+                "ybCompanyName": "",
+                "wangResult": "\u533b\u4fdd\u7f16\u7801\u4e3a\u7a7a",
+                "hou_tai_company_name": "\u77f3\u5bb6\u5e84\u4ee5\u5cad\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5965\u96f7\u5df4\u66ff\u5c3c\u7247",
+                "code": "XL01XEA368A001010181522",
+                "price": 625.0,
+                "ybPrice": 239.0,
+                "ybCompanyName": "\u6c5f\u82cf\u5ba3\u6cf0\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u5ba3\u6cf0\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u5b89\u7f57\u66ff\u5c3c\u80f6\u56ca",
+                "code": "XL01XEA309E001030101523",
+                "price": 214.96,
+                "ybPrice": 0,
+                "ybCompanyName": "\u624b\u52a8\u68c0\u67e5",
+                "wangResult": "\u624b\u52a8\u68c0\u67e5",
+                "hou_tai_company_name": "\u6b63\u5927\u5929\u6674\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c99\u5e93\u5df4\u66f2\u7f2c\u6c99\u5766\u94a0\u7247",
+                "code": "XC09DXS255A001010100100",
+                "price": 44.52,
+                "ybPrice": 3.18,
+                "ybCompanyName": "Novartis Pharma Stein AG",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u8bfa\u534e\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u82aa\u82c8\u5f3a\u5fc3\u80f6\u56ca",
+                "code": "ZA12DAQ0082010102767",
+                "price": 32.74,
+                "ybPrice": 0,
+                "ybCompanyName": "\u624b\u52a8\u68c0\u67e5",
+                "wangResult": "\u624b\u52a8\u68c0\u67e5",
+                "hou_tai_company_name": "\u77f3\u5bb6\u5e84\u4ee5\u5cad\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5730\u6986\u5347\u767d\u7247",
+                "code": "ZA09BAD0254010102017",
+                "price": 26.5,
+                "ybPrice": 0,
+                "ybCompanyName": "\u624b\u52a8\u68c0\u67e5",
+                "wangResult": "\u624b\u52a8\u68c0\u67e5",
+                "hou_tai_company_name": "\u6210\u90fd\u5730\u5965\u96c6\u56e2\u5929\u5e9c\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u533b\u7528\u9000\u70ed\u8d34",
+                "code": "C17040122000001144850000005",
+                "price": 2.4,
+                "ybPrice": 0,
+                "ybCompanyName": "\u624b\u52a8\u68c0\u67e5",
+                "wangResult": "\u624b\u52a8\u68c0\u67e5",
+                "hou_tai_company_name": "\u54c8\u836f\u96c6\u56e2\u4e09\u7cbe\u513f\u7ae5\u5927\u836f\u5382(\u6709\u9650\u516c\u53f8)"
+            }
+        ],
+        "company_name": "\u79e6\u7687\u5c9b\u534e\u6da6",
+        "start_date": "2023-09-10 20:37"
+    },
+    {
+        "ret_except_drug_list": [
+            {
+                "name": "\u91d1\u94f6\u82b1\u53e3\u670d\u6db2",
+                "code": "ZA04BAJ0499020101795",
+                "price": 31.44,
+                "ybPrice": 5.24,
+                "ybCompanyName": "\u6b66\u6c49\u5eb7\u4e50\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8\u3001\u771f\u5965\u91d1\u94f6\u82b1\u836f\u4e1a\u6709\u9650\u516c\u53f8\u3001\u6e56\u5317\u5348\u65f6\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u771f\u5965\u91d1\u94f6\u82b1\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7f57\u7ea2\u9709\u7d20\u80f6\u56ca",
+                "code": "XJ01FAL262E001010105315",
+                "price": null,
+                "ybPrice": 1.6,
+                "ybCompanyName": "\u6c5f\u897f\u805a\u4ec1\u5802\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u897f\u805a\u4ec1\u5802\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7ef4\u751f\u7d20D\u6ef4\u5242",
+                "code": "XA11CCW046X004010604052",
+                "price": 0.0,
+                "ybPrice": 999.0,
+                "ybCompanyName": "\u9752\u5c9b\u53cc\u9cb8\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9752\u5c9b\u53cc\u9cb8\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u683c\u5217\u7f8e\u8132\u7247",
+                "code": "XA10BBG069A001010305530",
+                "price": 19.55,
+                "ybPrice": 0.81,
+                "ybCompanyName": "\u8d35\u5dde\u5929\u5b89\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8d35\u5dde\u5929\u5b89\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5c3c\u9ea6\u89d2\u6797\u7247",
+                "code": "XC04AEN041A001010101533",
+                "price": 27.57,
+                "ybPrice": 1.36,
+                "ybCompanyName": "\u6606\u5c71\u9f99\u706f\u745e\u8fea\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6606\u5c71\u9f99\u706f\u745e\u8fea\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u683c\u5217\u5421\u55ea\u63a7\u91ca\u7247",
+                "code": "XA10BBG067A011010404175",
+                "price": 0.81,
+                "ybPrice": 0,
+                "ybCompanyName": "\u624b\u52a8\u68c0\u67e5",
+                "wangResult": "\u624b\u52a8\u68c0\u67e5",
+                "hou_tai_company_name": "\u6dc4\u535a\u4e07\u6770\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u666e\u4f10\u4ed6\u6c40\u94a0\u7247",
+                "code": "XC10AAP086A001010100785",
+                "price": 20.13,
+                "ybPrice": 1.68,
+                "ybCompanyName": "\u4e0a\u6d77\u73b0\u4ee3\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e0a\u6d77\u73b0\u4ee3\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5f02\u9ea6\u82bd\u7cd6\u9150\u94c1\u6ce8\u5c04\u6db2",
+                "code": "XB03ACY325B002010279334",
+                "price": 1590.0,
+                "ybPrice": 318.0,
+                "ybCompanyName": "Wasserburger Arzneimittelwerk GmbH",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Wasserburger Arzneimittelwerk GmbH"
+            },
+            {
+                "name": "\u4e8c\u7532\u53cc\u80cd\u6069\u683c\u5217\u51c0\u7247(\u2160)",
+                "code": "XA10BDE082A001010204520",
+                "price": 33.6,
+                "ybPrice": null,
+                "ybCompanyName": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u82ef\u78fa\u9178\u5de6\u6c28\u6c2f\u5730\u5e73\u7247",
+                "code": "XC08CAZ067A001020104606",
+                "price": 36.0,
+                "ybPrice": 1.29,
+                "ybCompanyName": "\u6d59\u6c5f\u6602\u5229\u5eb7\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u6602\u5229\u5eb7\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u590d\u65b9\u7518\u8349\u9178\u82f7\u80f6\u56ca",
+                "code": "XA05BAF632E001010200106",
+                "price": 25.65,
+                "ybPrice": 0.64,
+                "ybCompanyName": "\u5317\u4eac\u51ef\u56e0\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u51ef\u56e0\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u975e\u90a3\u96c4\u80fa\u7247",
+                "code": "XG04CBF019A001010204495",
+                "price": 489.0,
+                "ybPrice": 5.82,
+                "ybCompanyName": "AIAC International Pharma LLC",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Merck Sharp & Dohme Australia Pty. Ltd."
+            },
+            {
+                "name": "\u5384\u8d1d\u6c99\u5766\u7247",
+                "code": "XC09CAE003A001010282199",
+                "price": 89.0,
+                "ybPrice": 3.18,
+                "ybCompanyName": "Sanofi Winthrop Industrie",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Sanofi-aventis groupe"
+            },
+            {
+                "name": "\u76d0\u9178\u4e19\u5361\u7279\u7f57\u7247",
+                "code": "XR03CCB127A001010204619",
+                "price": 25.3,
+                "ybPrice": 26.8,
+                "ybCompanyName": "\u6d59\u6c5f\u5927\u51a2\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u5927\u51a2\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u4e8c\u7532\u53cc\u80cd\u7247",
+                "code": "XA10BAE021A001010178638",
+                "price": 52.44,
+                "ybPrice": 1.75,
+                "ybCompanyName": "MERCK SANTE",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "MERCK SANTE"
+            },
+            {
+                "name": "\u66ff\u7c73\u6c99\u5766\u7247",
+                "code": "XC09CAT039A001010401650",
+                "price": 5.87,
+                "ybPrice": 0.42,
+                "ybCompanyName": "\u82cf\u5dde\u4e1c\u745e\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u82cf\u5dde\u4e1c\u745e\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8fbe\u683c\u5217\u51c0\u7247",
+                "code": "XA10BKD256A001010101359",
+                "price": 63.0,
+                "ybPrice": 4.5,
+                "ybCompanyName": "AstraZeneca AB",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "AstraZeneca AB"
+            },
+            {
+                "name": "\u5438\u5165\u7528\u5f02\u4e19\u6258\u6eb4\u94f5\u6eb6\u6db2",
+                "code": "XR03BBY139L019020178302",
+                "price": 43.07,
+                "ybPrice": 4.31,
+                "ybCompanyName": "Laboratoire Unither",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Boehringer Ingelheim Pharma GmbH & Co. KG"
+            },
+            {
+                "name": "\u524d\u5217\u8212\u901a\u80f6\u56ca",
+                "code": "ZA16FAQ0195010202551",
+                "price": 45.2,
+                "ybPrice": 58.0,
+                "ybCompanyName": "\u4fdd\u5b9a\u5929\u6d69\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4fdd\u5b9a\u5929\u6d69\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4ed6\u8fbe\u62c9\u975e\u7247",
+                "code": "XG04BET001A001020378403",
+                "price": 495.0,
+                "ybPrice": 123.75,
+                "ybCompanyName": "Eli Lilly Nederland B.V.",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Eli Lilly Nederland B.V."
+            },
+            {
+                "name": "\u76d0\u9178\u6587\u62c9\u6cd5\u8f9b\u7f13\u91ca\u80f6\u56ca",
+                "code": "XN06AXW067E003010101421",
+                "price": 155.69,
+                "ybPrice": 11.12,
+                "ybCompanyName": "Pfizer Ireland Pharmaceuticals",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Pfizer Healthcare Ireland"
+            },
+            {
+                "name": "\u574e\u5730\u6c99\u5766\u916f\u7247",
+                "code": "XC09CAK033A001010110289",
+                "price": 22.39,
+                "ybPrice": 4.87,
+                "ybCompanyName": "KOKANDO CO.,LTD.Kureha Plant",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Teva Takeda Yakuhin Ltd."
+            },
+            {
+                "name": "\u590d\u65b9\u7518\u8349\u9178\u82f7\u7247",
+                "code": "XA05BAF632A001010102503",
+                "price": 13.57,
+                "ybPrice": 0.38,
+                "ybCompanyName": "\u6e56\u5357\u660e\u745e\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8,\u897f\u5b89\u5229\u541b\u5236\u836f\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u897f\u5b89\u5229\u541b\u5236\u836f\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u5421\u55ea\u9170\u80fa\u7247",
+                "code": "XJ04AKB103A001010101292",
+                "price": 22.65,
+                "ybPrice": 0.23,
+                "ybCompanyName": "\u6c88\u9633\u7ea2\u65d7\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c88\u9633\u7ea2\u65d7\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u5421\u683c\u5217\u916e\u7247",
+                "code": "XA10BGB091A001010301016",
+                "price": 48.0,
+                "ybPrice": 2.29,
+                "ybCompanyName": "\u91cd\u5e86\u79d1\u745e\u5236\u836f(\u96c6\u56e2)\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u91cd\u5e86\u79d1\u745e\u5236\u836f(\u96c6\u56e2)\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u9152\u77f3\u9178\u7f8e\u6258\u6d1b\u5c14\u7247",
+                "code": "XC07ABM062A001010202767",
+                "price": 4.6,
+                "ybPrice": 0.15,
+                "ybCompanyName": "\u77f3\u5bb6\u5e84\u4ee5\u5cad\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u5bb6\u5e84\u4ee5\u5cad\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u666e\u62c9\u514b\u7d22\u7247",
+                "code": "XN04BCP088A001010580023",
+                "price": 443.79,
+                "ybPrice": 4.93,
+                "ybCompanyName": "Boehringer Ingelheim International GmbH",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Boehringer Ingelheim International GmbH"
+            },
+            {
+                "name": "\u5de6\u4e59\u62c9\u897f\u5766\u7247",
+                "code": "XN03AXZ075A001010100610",
+                "price": 132.83,
+                "ybPrice": 4.43,
+                "ybCompanyName": "UCB Pharma S.A.",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "UCB Pharma S.A."
+            },
+            {
+                "name": "\u5965\u7f8e\u62c9\u5511\u80a0\u6eb6\u80f6\u56ca",
+                "code": "XA02BCA211E005020200239",
+                "price": 1.96,
+                "ybPrice": 0.14,
+                "ybCompanyName": "\u60a6\u5eb7\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u60a6\u5eb7\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u975e\u5948\u5229\u916e\u7247",
+                "code": "XC03DAF731A001010278262",
+                "price": 98.42,
+                "ybPrice": 7.03,
+                "ybCompanyName": "Bayer AG",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Bayer AG"
+            },
+            {
+                "name": "\u7ef4\u683c\u5217\u6c40\u7247",
+                "code": "XA10BHW104A001010300111",
+                "price": 51.52,
+                "ybPrice": 1.72,
+                "ybCompanyName": "\u534e\u6da6\u8d5b\u79d1\u836f\u4e1a\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u534e\u6da6\u8d5b\u79d1\u836f\u4e1a\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u4ed6\u8fbe\u62c9\u975e\u7247",
+                "code": "XG04BET001A001030201500",
+                "price": 160.0,
+                "ybPrice": 16.0,
+                "ybCompanyName": "\u6c5f\u82cf\u5929\u58eb\u529b\u5e1d\u76ca\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u5929\u58eb\u529b\u5e1d\u76ca\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c1f\u54cc\u567b\u5428\u7f8e\u5229\u66f2\u8f9b\u7247",
+                "code": "XN06CAF088A001010209568",
+                "price": 10.93,
+                "ybPrice": 1.09,
+                "ybCompanyName": "\u91cd\u5e86\u5723\u534e\u66e6\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u91cd\u5e86\u5723\u534e\u66e6\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5965\u7f8e\u62c9\u5511\u80a0\u6eb6\u80f6\u56ca",
+                "code": "XA02BCA211E005020400239",
+                "price": 3.8,
+                "ybPrice": 0.18,
+                "ybCompanyName": "\u60a6\u5eb7\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u60a6\u5eb7\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c2f\u5316\u94be\u7f13\u91ca\u7247",
+                "code": "XA12BAL208A010010200543",
+                "price": null,
+                "ybPrice": 0.41,
+                "ybCompanyName": "\u6df1\u5733\u5e02\u4e2d\u8054\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6df1\u5733\u5e02\u4e2d\u8054\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7532\u6cfc\u5c3c\u9f99\u7247",
+                "code": "XH02ABJ061A001010100943",
+                "price": 21.28,
+                "ybPrice": 0.89,
+                "ybCompanyName": "\u5929\u6d25\u91d1\u8000\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5929\u6d25\u5929\u836f\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c99\u5e93\u5df4\u66f2\u7f2c\u6c99\u5766\u94a0\u7247",
+                "code": "XC09DXS255A001010478679",
+                "price": 89.02,
+                "ybPrice": 3.18,
+                "ybCompanyName": "Novartis Farma S.p.A",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Novartis Pharma Schweiz AG"
+            },
+            {
+                "name": "\u7425\u73c0\u9178\u7f8e\u6258\u6d1b\u5c14\u7f13\u91ca\u7247",
+                "code": "XC07ABM062A010010301359",
+                "price": 58.0,
+                "ybPrice": 2.07,
+                "ybCompanyName": "AstraZeneca AB",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "AstraZeneca AB"
+            },
+            {
+                "name": "\u5bcc\u9a6c\u9178\u6bd4\u7d22\u6d1b\u5c14\u7247",
+                "code": "XC07ABB087A001040381152",
+                "price": 90.0,
+                "ybPrice": 3.0,
+                "ybCompanyName": "\u9ed8\u514b\u5236\u836f(\u6c5f\u82cf)\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9ed8\u514b\u5236\u836f(\u6c5f\u82cf)\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6069\u66ff\u5361\u97e6\u5206\u6563\u7247",
+                "code": "XJ05AFE013A006010401523",
+                "price": 206.0,
+                "ybPrice": 7.36,
+                "ybCompanyName": "\u6b63\u5927\u5929\u6674\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6b63\u5927\u5929\u6674\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4e01\u82ef\u915e\u8f6f\u80f6\u56ca",
+                "code": "XN07XXD130E002020102774",
+                "price": 604.8,
+                "ybPrice": 3.36,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6069\u5fc5\u666e\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6069\u5fc5\u666e\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u785d\u82ef\u5730\u5e73\u63a7\u91ca\u7247",
+                "code": "XC08CAX212A010010300044",
+                "price": 22.77,
+                "ybPrice": 1.63,
+                "ybCompanyName": "\u5317\u4eac\u7ea2\u6797\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u7ea2\u6797\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u66ff\u7c73\u6c99\u5766\u80f6\u56ca",
+                "code": "XC09CAT039E001010602647",
+                "price": 7.82,
+                "ybPrice": 0.28,
+                "ybCompanyName": "\u6cb3\u5317\u5c71\u59c6\u58eb\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6cb3\u5317\u5c71\u59c6\u58eb\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4f9d\u5df4\u65af\u6c40\u7247",
+                "code": "XR06AXY065A001010578207",
+                "price": 53.82,
+                "ybPrice": 2.69,
+                "ybCompanyName": "ALMIRALL,S.A.",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "ALMIRALL,S.A."
+            },
+            {
+                "name": "\u82ef\u78fa\u9178\u6c28\u6c2f\u5730\u5e73\u7247",
+                "code": "XC08CAA187A001011101219",
+                "price": 4.03,
+                "ybPrice": 0.19,
+                "ybCompanyName": "\u8fbd\u5b81\u5eb7\u535a\u58eb\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8fbd\u5b81\u5eb7\u535a\u58eb\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u767e\u4ee4\u80f6\u56ca",
+                "code": "ZA09FAB0148030204520",
+                "price": 72.1,
+                "ybPrice": 1.03,
+                "ybCompanyName": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6709\u9650\u516c\u53f8,\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6c5f\u4e1c\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6709\u9650\u516c\u53f8,\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6c5f\u4e1c\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u514b\u62c9\u9709\u7d20\u7247",
+                "code": "XJ01FAK067A001010404520",
+                "price": 32.2,
+                "ybPrice": 1.79,
+                "ybCompanyName": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6069\u66ff\u5361\u97e6\u7247",
+                "code": "XJ05AFE013A001010200842",
+                "price": 572.7,
+                "ybPrice": 20.45,
+                "ybCompanyName": "\u4e2d\u7f8e\u4e0a\u6d77\u65bd\u8d35\u5b9d\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e2d\u7f8e\u4e0a\u6d77\u65bd\u8d35\u5b9d\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u745e\u683c\u5217\u5948\u7247",
+                "code": "XA10BXR068A001020378997",
+                "price": 193.5,
+                "ybPrice": 2.15,
+                "ybCompanyName": "Boehringer Ingelheim Pharma GmbH & Co.KG",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Novo Nordisk A/S"
+            },
+            {
+                "name": "\u745e\u683c\u5217\u5948\u7247",
+                "code": "XA10BXR068A001010378997",
+                "price": 166.5,
+                "ybPrice": 1.85,
+                "ybCompanyName": "Boehringer Ingelheim Pharma GmbH & Co.KG",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Novo Nordisk A/S"
+            },
+            {
+                "name": "\u963f\u6614\u6d1b\u97e6\u7247",
+                "code": "XJ05ABA075A001010204945",
+                "price": 16.0,
+                "ybPrice": 0.5,
+                "ybCompanyName": "\u5eb7\u666e\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5eb7\u666e\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7532\u94b4\u80fa\u80f6\u56ca",
+                "code": "XB03BAJ038E001010704131",
+                "price": 38.0,
+                "ybPrice": 0.79,
+                "ybCompanyName": "\u5c71\u4e1c\u9c81\u6297\u533b\u836f\u96c6\u56e2\u8d5b\u7279\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5c71\u4e1c\u9c81\u6297\u533b\u836f\u96c6\u56e2\u8d5b\u7279\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u82ef\u78fa\u9178\u5de6\u6c28\u6c2f\u5730\u5e73\u7247",
+                "code": "XC08CAZ067A001010205491",
+                "price": 33.0,
+                "ybPrice": 1.65,
+                "ybCompanyName": "\u8d35\u5dde\u8054\u76db\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8d35\u5dde\u8054\u76db\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5eb7\u590d\u65b0\u6db2",
+                "code": "ZB01BAK0033090102151",
+                "price": 75.6,
+                "ybPrice": 18.9,
+                "ybCompanyName": "\u56db\u5ddd\u597d\u533b\u751f\u6500\u897f\u836f\u4e1a\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u56db\u5ddd\u597d\u533b\u751f\u6500\u897f\u836f\u4e1a\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u8fbe\u6cca\u897f\u6c40\u7247",
+                "code": "XG04BED214A001020210323",
+                "price": 41.4,
+                "ybPrice": 13.8,
+                "ybCompanyName": "\u5c71\u4e1c\u6717\u8bfa\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5c71\u4e1c\u6717\u8bfa\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4ed6\u8fbe\u62c9\u975e\u7247",
+                "code": "XG04BET001A001010304960",
+                "price": 88.0,
+                "ybPrice": 22.0,
+                "ybCompanyName": "\u6e56\u5357\u5343\u91d1\u6e58\u6c5f\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6e56\u5357\u5343\u91d1\u6e58\u6c5f\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7518\u7cbe\u80f0\u5c9b\u7d20\u6ce8\u5c04\u6db2",
+                "code": "XA10AEG025B002020281708",
+                "price": 270.0,
+                "ybPrice": 90.0,
+                "ybCompanyName": "\u8d5b\u8bfa\u83f2(\u5317\u4eac)\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8d5b\u8bfa\u83f2(\u5317\u4eac)\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u718a\u53bb\u6c27\u80c6\u9178\u80f6\u56ca",
+                "code": "XA05AAX163E001010100244",
+                "price": 149.5,
+                "ybPrice": 6.23,
+                "ybCompanyName": "\u5b89\u58eb\u5236\u836f(\u4e2d\u5c71)\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5b89\u58eb\u5236\u836f(\u4e2d\u5c71)\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7c73\u6c2e\u5e73\u7247",
+                "code": "XN06AXM093A001010202902",
+                "price": 68.78,
+                "ybPrice": 3.44,
+                "ybCompanyName": "\u5c71\u897f\u5eb7\u5b9d\u751f\u7269\u5236\u54c1\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5c71\u897f\u5eb7\u5b9d\u751f\u7269\u5236\u54c1\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u9a6c\u6765\u9178\u4f9d\u90a3\u666e\u5229\u7247",
+                "code": "XC09AAY074A001010302770",
+                "price": 7.3,
+                "ybPrice": 0.36,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u745e\u8212\u4f10\u4ed6\u6c40\u9499\u7247",
+                "code": "XC10AAR069A001010104658",
+                "price": 12.19,
+                "ybPrice": 2.03,
+                "ybCompanyName": "\u6d59\u6c5f\u4eac\u65b0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u4eac\u65b0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c2f\u6c2e\u5e73\u7247",
+                "code": "XN05AHL195A001010104161",
+                "price": 5.41,
+                "ybPrice": 0.05,
+                "ybCompanyName": "\u4ec1\u548c\u5802\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4ec1\u548c\u5802\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c2f\u6c2e\u5e73\u7247",
+                "code": "XN05AHL195A001010100818",
+                "price": 9.32,
+                "ybPrice": 0.09,
+                "ybCompanyName": "\u4e0a\u6d77\u4e0a\u836f\u4fe1\u8c0a\u836f\u5382\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e0a\u6d77\u4e0a\u836f\u4fe1\u8c0a\u836f\u5382\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6765\u6c1f\u7c73\u7279\u7247",
+                "code": "XL04AAL019A001010201645",
+                "price": 71.76,
+                "ybPrice": 4.49,
+                "ybCompanyName": "\u82cf\u5dde\u957f\u5f81-\u6b23\u51ef\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u82cf\u5dde\u957f\u5f81-\u6b23\u51ef\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u5421\u683c\u5217\u916e\u7247",
+                "code": "XA10BGB091A001010200154",
+                "price": 14.15,
+                "ybPrice": 1.01,
+                "ybCompanyName": "\u5317\u4eac\u592a\u6d0b\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u592a\u6d0b\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u785d\u82ef\u5730\u5e73\u7f13\u91ca\u7247(\u2161)",
+                "code": "XC08CAX211A010010204240",
+                "price": 5.75,
+                "ybPrice": 0.24,
+                "ybCompanyName": "\u70df\u53f0\u9c81\u94f6\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u70df\u53f0\u9c81\u94f6\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u827e\u53f8\u5965\u7f8e\u62c9\u5511\u9541\u80a0\u6eb6\u80f6\u56ca",
+                "code": "XA02BCA081E005010201523",
+                "price": 34.89,
+                "ybPrice": 4.98,
+                "ybCompanyName": "\u6b63\u5927\u5929\u6674\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6b63\u5927\u5929\u6674\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8349\u9178\u827e\u53f8\u897f\u915e\u666e\u5170\u7247",
+                "code": "XN06ABA225A001010278996",
+                "price": 337.07,
+                "ybPrice": 12.04,
+                "ybCompanyName": "H.Lundbeck A/S",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "H.Lundbeck A/S"
+            },
+            {
+                "name": "\u76d0\u9178\u6c28\u57fa\u8461\u8404\u7cd6\u7247",
+                "code": "XM01AXA165A001010101473",
+                "price": 13.8,
+                "ybPrice": 2.3,
+                "ybCompanyName": "\u6c5f\u82cf\u6b63\u5927\u6e05\u6c5f\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u6b63\u5927\u6e05\u6c5f\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4f9d\u6258\u8003\u6614\u7247",
+                "code": "XM01AHY094A001010106725",
+                "price": 33.35,
+                "ybPrice": 2.78,
+                "ybCompanyName": "\u56db\u5ddd\u5b8f\u660e\u535a\u601d\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6210\u90fd\u767e\u88d5\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u963f\u5361\u6ce2\u7cd6\u7247",
+                "code": "XA10BFA025A001020104520",
+                "price": 21.11,
+                "ybPrice": 0.7,
+                "ybCompanyName": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6c5f\u4e1c\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u78b3\u9178\u9499D3\u9897\u7c92",
+                "code": "XA12AXT013N001020200076",
+                "price": 37.88,
+                "ybPrice": 3.79,
+                "ybCompanyName": "\u5317\u4eac\u6717\u8fea\u5236\u836f\u6709\u9650\u516c\u53f8,\u5c71\u897f\u632f\u4e1c\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u632f\u4e1c\u5eb7\u8fdc\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7f2c\u6c99\u5766\u6c22\u6c2f\u567b\u55ea\u7247",
+                "code": "XC09DAX144A001010104010",
+                "price": 34.93,
+                "ybPrice": 2.91,
+                "ybCompanyName": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c2f\u96f7\u4ed6\u5b9a\u80f6\u56ca",
+                "code": "XR06AXL226E001010305073",
+                "price": 11.96,
+                "ybPrice": 1.0,
+                "ybCompanyName": "\u5e7f\u897f\u539a\u5fb7\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5e7f\u897f\u539a\u5fb7\u5927\u5065\u5eb7\u4ea7\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5b5f\u9c81\u53f8\u7279\u94a0\u7247",
+                "code": "XR03DCM082A001010401503",
+                "price": 26.68,
+                "ybPrice": 2.67,
+                "ybCompanyName": "\u6c5f\u82cf\u4e07\u9ad8\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u4e07\u9ad8\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5b89\u513f\u5b81\u9897\u7c92",
+                "code": "ZI01AAA0052010205934",
+                "price": 23.76,
+                "ybPrice": 1.98,
+                "ybCompanyName": "\u91d1\u8bc3\u85cf\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u91d1\u8bc3\u85cf\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5432\u8fbe\u5e15\u80fa\u7247",
+                "code": "XC03BAY169A001010104626",
+                "price": 2.99,
+                "ybPrice": 0.15,
+                "ybCompanyName": "\u6d59\u6c5f\u4e1c\u65e5\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u4e1c\u65e5\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5384\u8d1d\u6c99\u5766\u80f6\u56ca",
+                "code": "XC09CAE003E001010504645",
+                "price": 12.42,
+                "ybPrice": 0.62,
+                "ybCompanyName": "\u6d59\u6c5f\u5f18\u76db\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u5f18\u76db\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u785d\u82ef\u5730\u5e73\u7f13\u91ca\u7247(\u2160)",
+                "code": "XC08CAX210A010010202959",
+                "price": 6.67,
+                "ybPrice": 0.22,
+                "ybCompanyName": "\u4e9a\u5b9d\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e9a\u5b9d\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5934\u5b62\u514b\u809f\u9897\u7c92",
+                "code": "XJ01DDT073N001020200555",
+                "price": 14.38,
+                "ybPrice": 1.2,
+                "ybCompanyName": "\u56fd\u836f\u96c6\u56e2\u81f4\u541b(\u6df1\u5733)\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u56fd\u836f\u96c6\u56e2\u81f4\u541b(\u6df1\u5733)\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5065\u80c3\u6d88\u98df\u7247",
+                "code": "ZA14AAJ0168010304929",
+                "price": 6.4,
+                "ybPrice": 0.16,
+                "ybCompanyName": "\u6e56\u5357\u534e\u7eb3\u5927\u836f\u5382\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6e56\u5357\u534e\u7eb3\u5927\u836f\u5382\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u590d\u65b9\u963f\u80f6\u6d46",
+                "code": "ZA09BAF0284020204080",
+                "price": 97.68,
+                "ybPrice": 8.14,
+                "ybCompanyName": "\u4e1c\u963f\u963f\u80f6\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e1c\u963f\u963f\u80f6\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u683c\u5217\u5421\u55ea\u7247",
+                "code": "XA10BBG067A001010103156",
+                "price": 4.6,
+                "ybPrice": 0.15,
+                "ybCompanyName": "\u6d1b\u9633\u65b0\u6625\u90fd\u751f\u7269\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d1b\u9633\u65b0\u6625\u90fd\u751f\u7269\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5965\u7f8e\u62c9\u5511\u80a0\u6eb6\u80f6\u56ca",
+                "code": "XA02BCA211E005010103592",
+                "price": 12.65,
+                "ybPrice": 0.9,
+                "ybCompanyName": "\u4fee\u6b63\u836f\u4e1a\u96c6\u56e2\u957f\u6625\u9ad8\u65b0\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4fee\u6b63\u836f\u4e1a\u96c6\u56e2\u957f\u6625\u9ad8\u65b0\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7f57\u7ea2\u9709\u7d20\u80f6\u56ca",
+                "code": "XJ01FAL262E001010105774",
+                "price": 6.73,
+                "ybPrice": 0.67,
+                "ybCompanyName": "\u6d77\u5357\u6d77\u529b\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d77\u5357\u6d77\u529b\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5934\u5b62\u514b\u6d1b\u5e72\u6df7\u60ac\u5242",
+                "code": "XJ01DCT072X006010104193",
+                "price": 10.45,
+                "ybPrice": 1.04,
+                "ybCompanyName": "\u5c71\u4e1c\u76ca\u5eb7\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5c71\u4e1c\u76ca\u5eb7\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u963f\u83ab\u897f\u6797\u9897\u7c92",
+                "code": "XJ01CAA040N001010204273",
+                "price": 5.18,
+                "ybPrice": 0.29,
+                "ybCompanyName": "\u5b89\u5fbd\u5b89\u79d1\u6052\u76ca\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5b89\u5fbd\u5b89\u79d1\u6052\u76ca\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u975e\u90a3\u96c4\u80fa\u7247",
+                "code": "XG04CBF019A001010100785",
+                "price": 6.47,
+                "ybPrice": 0.65,
+                "ybCompanyName": "\u4e0a\u6d77\u73b0\u4ee3\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e0a\u6d77\u73b0\u4ee3\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5c3c\u53ef\u5730\u5c14\u7247",
+                "code": "XC01DXN039A001010103098",
+                "price": 23.0,
+                "ybPrice": 0.96,
+                "ybCompanyName": "\u5929\u65b9\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5929\u65b9\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u9152\u77f3\u9178\u7f8e\u6258\u6d1b\u5c14\u7247",
+                "code": "XC07ABM062A001030101359",
+                "price": 14.06,
+                "ybPrice": 0.7,
+                "ybCompanyName": "\u963f\u65af\u5229\u5eb7\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u963f\u65af\u5229\u5eb7\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5b5f\u9c81\u53f8\u7279\u94a0\u7247",
+                "code": "XR03DCM082A001010278639",
+                "price": 190.66,
+                "ybPrice": 6.36,
+                "ybCompanyName": "Merck Sharp & Dohme Ltd.",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Merck Sharp & Dohme B.V."
+            },
+            {
+                "name": "\u785d\u82ef\u5730\u5e73\u7f13\u91ca\u7247(\u2160)",
+                "code": "XC08CAX210A010010403942",
+                "price": 24.15,
+                "ybPrice": 0.34,
+                "ybCompanyName": "\u5fb7\u5dde\u5fb7\u836f\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5fb7\u5dde\u5fb7\u836f\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8fbe\u683c\u5217\u51c0\u7247",
+                "code": "XA10BKD256A001010201359",
+                "price": 130.8,
+                "ybPrice": 4.36,
+                "ybCompanyName": "AstraZeneca AB",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "AstraZeneca AB"
+            },
+            {
+                "name": "\u94f6\u674f\u53f6\u7247",
+                "code": "ZA12HAY0555010504929",
+                "price": 23.58,
+                "ybPrice": 0.25,
+                "ybCompanyName": "\u6e56\u5357\u534e\u7eb3\u5927\u836f\u5382\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6e56\u5357\u534e\u7eb3\u5927\u836f\u5382\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u827e\u745e\u6614\u5e03\u7247",
+                "code": "XM01AHA273A001010301445",
+                "price": 58.08,
+                "ybPrice": 4.84,
+                "ybCompanyName": "\u6c5f\u82cf\u6052\u745e\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8,\u6210\u90fd\u76db\u8fea\u533b\u836f\u6709\u9650\u516c\u53f8 (\u59d4\u6258)",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u6052\u745e\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u4e8c\u7532\u53cc\u80cd\u7f13\u91ca\u7247",
+                "code": "XA10BAE021A010010404043",
+                "price": 25.16,
+                "ybPrice": 0.52,
+                "ybCompanyName": "\u9752\u5c9b\u9ec4\u6d77\u5236\u836f\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9752\u5c9b\u9ec4\u6d77\u5236\u836f\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u5384\u8d1d\u6c99\u5766\u6c22\u6c2f\u567b\u55ea\u7247",
+                "code": "XC09DAE004A001010278814",
+                "price": 41.76,
+                "ybPrice": 1.49,
+                "ybCompanyName": "Sanofi Winthrop Industrie",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Sanofi-aventis groupe"
+            },
+            {
+                "name": "\u785d\u82ef\u5730\u5e73\u63a7\u91ca\u7247",
+                "code": "XC08CAX066A011010400785",
+                "price": 58.65,
+                "ybPrice": 2.44,
+                "ybCompanyName": "\u4e0a\u6d77\u73b0\u4ee3\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e0a\u6d77\u73b0\u4ee3\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u5965\u6d1b\u4ed6\u5b9a\u7247",
+                "code": "XR01ACA210A001010200151",
+                "price": 47.66,
+                "ybPrice": 3.4,
+                "ybCompanyName": "\u5317\u4eac\u56db\u73af\u79d1\u5b9d\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u56db\u73af\u79d1\u5b9d\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u786b\u9178\u6c22\u6c2f\u5421\u683c\u96f7\u7247",
+                "code": "XB01ACL190A001010304502",
+                "price": 105.66,
+                "ybPrice": 3.77,
+                "ybCompanyName": "\u8d5b\u8bfa\u83f2(\u676d\u5dde)\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8d5b\u8bfa\u83f2(\u676d\u5dde)\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7c73\u683c\u5217\u9187\u7247",
+                "code": "XA10BFM097A001010204747",
+                "price": 26.45,
+                "ybPrice": 0.88,
+                "ybCompanyName": "\u6d59\u6c5f\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8\u65b0\u660c\u5236\u836f\u5382",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8\u65b0\u660c\u5236\u836f\u5382"
+            },
+            {
+                "name": "\u745e\u8212\u4f10\u4ed6\u6c40\u9499\u7247",
+                "code": "XC10AAR069A001030404010",
+                "price": 48.91,
+                "ybPrice": 1.75,
+                "ybCompanyName": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8499\u8131\u77f3\u6563",
+                "code": "XA07BCM081P001010300843",
+                "price": 33.19,
+                "ybPrice": 2.21,
+                "ybCompanyName": "\u535a\u798f-\u76ca\u666e\u751f(\u5929\u6d25)\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u535a\u798f-\u76ca\u666e\u751f(\u5929\u6d25)\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5934\u5b62\u514b\u809f\u9897\u7c92",
+                "code": "XJ01DDT073N001010404951",
+                "price": 8.05,
+                "ybPrice": 1.15,
+                "ybCompanyName": "\u5eb7\u666e\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5eb7\u666e\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5065\u80c3\u6d88\u98df\u7247",
+                "code": "ZA14AAJ0168010205394",
+                "price": 11.52,
+                "ybPrice": 0.16,
+                "ybCompanyName": "\u6c5f\u4e2d\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u4e2d\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u8d1d\u90a3\u666e\u5229\u7247",
+                "code": "XC09AAB034A001010300100",
+                "price": 70.3,
+                "ybPrice": 2.51,
+                "ybCompanyName": "\u5317\u4eac\u8bfa\u534e\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u8bfa\u534e\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4ed6\u8fbe\u62c9\u975e\u7247",
+                "code": "XG04BET001A001010301500",
+                "price": 390.0,
+                "ybPrice": 48.75,
+                "ybCompanyName": "\u6c5f\u82cf\u5929\u58eb\u529b\u5e1d\u76ca\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u5929\u58eb\u529b\u5e1d\u76ca\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u786b\u9178\u6c22\u6c2f\u5421\u683c\u96f7\u7247",
+                "code": "XB01ACL190A001030180426",
+                "price": 333.97,
+                "ybPrice": 3.71,
+                "ybCompanyName": "Sanofi Winthrop Industrie",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Sanofi-aventis groupe"
+            },
+            {
+                "name": "\u76d0\u9178\u6c1f\u6842\u5229\u55ea\u80f6\u56ca",
+                "code": "XN07CAF072E001010202529",
+                "price": 71.97,
+                "ybPrice": 1.2,
+                "ybCompanyName": "\u897f\u5b89\u6768\u68ee\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u897f\u5b89\u6768\u68ee\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u9a6c\u6765\u9178\u4f9d\u90a3\u666e\u5229\u7247",
+                "code": "XC09AAY074A001010502770",
+                "price": 8.63,
+                "ybPrice": 0.27,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u785d\u82ef\u5730\u5e73\u63a7\u91ca\u7247",
+                "code": "XC08CAX066A011010105849",
+                "price": 10.47,
+                "ybPrice": 1.5,
+                "ybCompanyName": "\u6d77\u5357\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d77\u5357\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5384\u8d1d\u6c99\u5766\u6c22\u6c2f\u567b\u55ea\u7247",
+                "code": "XC09DAE004A001010401606",
+                "price": 35.19,
+                "ybPrice": 1.17,
+                "ybCompanyName": "\u5357\u4eac\u6b63\u5927\u5929\u6674\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5357\u4eac\u6b63\u5927\u5929\u6674\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4ed6\u8fbe\u62c9\u975e\u7247",
+                "code": "XG04BET001A001010101500",
+                "price": 97.5,
+                "ybPrice": 48.75,
+                "ybCompanyName": "\u6c5f\u82cf\u5929\u58eb\u529b\u5e1d\u76ca\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u5929\u58eb\u529b\u5e1d\u76ca\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4e01\u82ef\u915e\u8f6f\u80f6\u56ca",
+                "code": "XN07XXD130E002010402774",
+                "price": 201.6,
+                "ybPrice": 3.36,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6069\u5fc5\u666e\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6069\u5fc5\u666e\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5c3c\u53ef\u5730\u5c14\u7247",
+                "code": "XC01DXN039A001010182320",
+                "price": 63.33,
+                "ybPrice": 2.11,
+                "ybCompanyName": "Chugai Pharmaceutical Co.,Ltd(Nipro Pharma Corporation Kagamiishi Plant)",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Chugai Pharmaceutical Co.,Ltd(Nipro Pharma Corporation Kagamiishi Plant)"
+            },
+            {
+                "name": "\u7f2c\u6c99\u5766\u6c28\u6c2f\u5730\u5e73\u7247(\u2160)",
+                "code": "XC09DBX206A001010300100",
+                "price": 189.0,
+                "ybPrice": 6.75,
+                "ybCompanyName": "Siegfried Barbera, S.L.",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Novartis Pharma Schweiz AG"
+            },
+            {
+                "name": "\u786b\u9178\u6c22\u6c2f\u5421\u683c\u96f7\u7247",
+                "code": "XB01ACL190A001030200553",
+                "price": 70.0,
+                "ybPrice": 2.5,
+                "ybCompanyName": "\u6df1\u5733\u4fe1\u7acb\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6df1\u5733\u4fe1\u7acb\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u585e\u6765\u6614\u5e03\u80f6\u56ca",
+                "code": "XM01AHS002E001010101445",
+                "price": 19.55,
+                "ybPrice": 1.96,
+                "ybCompanyName": "\u6c5f\u82cf\u6052\u745e\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u6052\u745e\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u666e\u62c9\u514b\u7d22\u7247",
+                "code": "XN04BCP088A001010200638",
+                "price": 172.0,
+                "ybPrice": 5.73,
+                "ybCompanyName": "Boehringer Ingelheim Pharma GmbH & Co. KG",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Boehringer Ingelheim International GmbH"
+            },
+            {
+                "name": "\u745e\u8212\u4f10\u4ed6\u6c40\u9499\u7247",
+                "code": "XC10AAR069A001010301594",
+                "price": 25.0,
+                "ybPrice": 2.08,
+                "ybCompanyName": "\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5bcc\u9a6c\u9178\u55b9\u786b\u5e73\u7247",
+                "code": "XN05AHK094A001050101359",
+                "price": 67.16,
+                "ybPrice": 3.36,
+                "ybCompanyName": "\u963f\u65af\u5229\u5eb7\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u963f\u65af\u5229\u5eb7\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5229\u4f10\u6c99\u73ed\u7247",
+                "code": "XB01AFL056A001020100002",
+                "price": 143.2,
+                "ybPrice": 20.46,
+                "ybCompanyName": "Bayer AG",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Bayer AG"
+            },
+            {
+                "name": "\u5229\u4f10\u6c99\u73ed\u7247",
+                "code": "XB01AFL056A001030100002",
+                "price": 178.3,
+                "ybPrice": 25.47,
+                "ybCompanyName": "Bayer AG",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Bayer AG"
+            },
+            {
+                "name": "\u6258\u4f10\u666e\u5766\u7247",
+                "code": "XC03XAT151A001010101445",
+                "price": 302.7,
+                "ybPrice": 30.27,
+                "ybCompanyName": "\u6c5f\u82cf\u6052\u745e\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u6052\u745e\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4f9d\u5df4\u65af\u6c40\u7247",
+                "code": "XR06AXY065A001010604471",
+                "price": 21.85,
+                "ybPrice": 1.09,
+                "ybCompanyName": "\u676d\u5dde\u4edf\u6e90\u4fdd\u7075\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u676d\u5dde\u4edf\u6e90\u4fdd\u7075\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8349\u9178\u827e\u53f8\u897f\u915e\u666e\u5170\u7247",
+                "code": "XN06ABA225A001010178996",
+                "price": 88.64,
+                "ybPrice": 12.66,
+                "ybCompanyName": "H.Lundbeck A/S",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "H.Lundbeck A/S"
+            },
+            {
+                "name": "\u78f7\u9178\u5965\u53f8\u4ed6\u97e6\u80f6\u56ca",
+                "code": "XJ05AHA218E001010201997",
+                "price": 73.26,
+                "ybPrice": 12.21,
+                "ybCompanyName": "\u5b9c\u660c\u4e1c\u9633\u5149\u957f\u6c5f\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5b9c\u660c\u4e1c\u9633\u5149\u957f\u6c5f\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u963f\u6bd4\u591a\u5c14\u7247",
+                "code": "XJ05AXA011A001010202777",
+                "price": 54.0,
+                "ybPrice": 4.5,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u67b8\u6a7c\u9178\u897f\u5730\u90a3\u975e\u7247",
+                "code": "XG04BEX006A001030401187",
+                "price": 246.56,
+                "ybPrice": 49.31,
+                "ybCompanyName": "\u8f89\u745e\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8f89\u745e\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6069\u683c\u5217\u51c0\u7247",
+                "code": "XA10BKE079A001010100638",
+                "price": 42.0,
+                "ybPrice": 4.2,
+                "ybCompanyName": "Boehringer Ingelheim Pharma GmbH & Co. KG",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Boehringer Ingelheim International GmbH"
+            },
+            {
+                "name": "\u5432\u8fbe\u5e15\u80fa\u7247",
+                "code": "XC03BAY169A017010300886",
+                "price": 35.65,
+                "ybPrice": 0.59,
+                "ybCompanyName": "\u5929\u6d25\u529b\u751f\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5929\u6d25\u529b\u751f\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u963f\u83ab\u897f\u6797\u9897\u7c92",
+                "code": "XJ01CAA040N001010405849",
+                "price": 13.97,
+                "ybPrice": 0.47,
+                "ybCompanyName": "\u6d77\u5357\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d77\u5357\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7f2c\u6c99\u5766\u6c28\u6c2f\u5730\u5e73\u7247(\u2160)",
+                "code": "XC09DBX206A001010100100",
+                "price": 53.16,
+                "ybPrice": 7.59,
+                "ybCompanyName": "Siegfried Barbera, S.L.",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Novartis Pharma Schweiz AG"
+            },
+            {
+                "name": "\u745e\u8212\u4f10\u4ed6\u6c40\u9499\u7247",
+                "code": "XC10AAR069A001010210153",
+                "price": 160.0,
+                "ybPrice": 5.71,
+                "ybCompanyName": "Astrazeneca UK limited",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Astrazeneca UK limited"
+            },
+            {
+                "name": "\u67b8\u6a7c\u9178\u897f\u5730\u90a3\u975e\u7247",
+                "code": "XG04BEX006A001030800381",
+                "price": 238.05,
+                "ybPrice": 23.8,
+                "ybCompanyName": "\u5e7f\u5dde\u767d\u4e91\u5c71\u533b\u836f\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8\u767d\u4e91\u5c71\u5236\u836f\u603b\u5382",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5e7f\u5dde\u767d\u4e91\u5c71\u533b\u836f\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8\u767d\u4e91\u5c71\u5236\u836f\u603b\u5382"
+            },
+            {
+                "name": "\u5c3c\u53ef\u5730\u5c14\u7247",
+                "code": "XC01DXN039A001010179189",
+                "price": 59.8,
+                "ybPrice": 1.99,
+                "ybCompanyName": "Nipro Pharma Corporation Kagamiishi Plant",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Chugai Pharmaceutical Co., Ltd(Nipro Pharma Corporation Kagamiishi Plant)"
+            },
+            {
+                "name": "\u7532\u94b4\u80fa\u7247",
+                "code": "XB03BAJ038A001010101693",
+                "price": 31.05,
+                "ybPrice": 1.55,
+                "ybCompanyName": "\u536b\u6750(\u4e2d\u56fd)\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u536b\u6750(\u4e2d\u56fd)\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6258\u4f10\u666e\u5766\u7247",
+                "code": "XC03XAT151A001010104619",
+                "price": 440.0,
+                "ybPrice": 88.0,
+                "ybCompanyName": "\u6d59\u6c5f\u5927\u51a2\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u5927\u51a2\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5de6\u4e59\u62c9\u897f\u5766\u7247",
+                "code": "XN03AXZ075A001020100610",
+                "price": 219.0,
+                "ybPrice": 7.3,
+                "ybCompanyName": "UCB Pharma S.A.",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "UCB Pharma S.A."
+            },
+            {
+                "name": "\u5934\u5b62\u514b\u809f\u80f6\u56ca",
+                "code": "XJ01DDT073E001010304021",
+                "price": 7.48,
+                "ybPrice": 0.62,
+                "ybCompanyName": "\u9f50\u9c81\u5236\u836f\u6709\u9650\u516c\u53f8,\u9f50\u9c81\u5b89\u66ff\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9f50\u9c81\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c2f\u96f7\u4ed6\u5b9a\u7247",
+                "code": "XR06AXL226A001010202529",
+                "price": 36.66,
+                "ybPrice": 3.06,
+                "ybCompanyName": "\u897f\u5b89\u6768\u68ee\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u897f\u5b89\u6768\u68ee\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5b5f\u9c81\u53f8\u7279\u94a0\u7247",
+                "code": "XR03DCM082A001010204010",
+                "price": 46.46,
+                "ybPrice": 3.87,
+                "ybCompanyName": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5b5f\u9c81\u53f8\u7279\u94a0\u5480\u56bc\u7247",
+                "code": "XR03DCM082A005010204010",
+                "price": 40.42,
+                "ybPrice": 3.37,
+                "ybCompanyName": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u786b\u9178\u6c22\u6c2f\u5421\u683c\u96f7\u7247",
+                "code": "XB01ACL190A001020500553",
+                "price": 62.25,
+                "ybPrice": 1.04,
+                "ybCompanyName": "\u6df1\u5733\u4fe1\u7acb\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6df1\u5733\u4fe1\u7acb\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5934\u5b62\u544b\u8f9b\u916f\u7247",
+                "code": "XJ01DCT162A001020100600",
+                "price": 15.15,
+                "ybPrice": 1.26,
+                "ybCompanyName": "\u73e0\u6d77\u8054\u90a6\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8\u4e2d\u5c71\u5206\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u73e0\u6d77\u8054\u90a6\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8\u4e2d\u5c71\u5206\u516c\u53f8"
+            },
+            {
+                "name": "\u585e\u6765\u6614\u5e03\u80f6\u56ca",
+                "code": "XM01AHS002E001010478724",
+                "price": 80.67,
+                "ybPrice": 4.48,
+                "ybCompanyName": "Pfizer Pharmaceuticals LLC",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "G.D.Searle LLC"
+            },
+            {
+                "name": "\u66ff\u683c\u745e\u6d1b\u7247",
+                "code": "XB01ACT157A001010179096",
+                "price": 75.0,
+                "ybPrice": 5.36,
+                "ybCompanyName": "AstraZeneca AB",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u963f\u65af\u5229\u5eb7\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u78f7\u9178\u5965\u53f8\u4ed6\u97e6\u9897\u7c92",
+                "code": "XJ05AHA218N001020101997",
+                "price": 78.89,
+                "ybPrice": 7.89,
+                "ybCompanyName": "\u5b9c\u660c\u4e1c\u9633\u5149\u957f\u6c5f\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5b9c\u660c\u4e1c\u9633\u5149\u957f\u6c5f\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4f9d\u6298\u9ea6\u5e03\u7247",
+                "code": "XC10AXY097A001010104495",
+                "price": 70.6,
+                "ybPrice": 7.06,
+                "ybCompanyName": "MSD Pharma (Singapore) Pte. Ltd.",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "MSD Pharma (Singapore) Pte. Ltd."
+            },
+            {
+                "name": "\u5c0f\u91d1\u4e38",
+                "code": "ZB02AAX0572010802076",
+                "price": 19.5,
+                "ybPrice": 2.68,
+                "ybCompanyName": "\u6210\u90fd\u6c38\u5eb7\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6210\u90fd\u6c38\u5eb7\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5355\u785d\u9178\u5f02\u5c71\u68a8\u916f\u7f13\u91ca\u7247",
+                "code": "XC01DAD024A010010100804",
+                "price": 14.84,
+                "ybPrice": 0.74,
+                "ybCompanyName": "\u4e0a\u6d77\u4fe1\u8c0a\u4e07\u8c61\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e0a\u6d77\u4fe1\u8c0a\u4e07\u8c61\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u94f6\u674f\u53f6\u7247",
+                "code": "ZA12HAY0555010201614",
+                "price": 5.98,
+                "ybPrice": 0.17,
+                "ybCompanyName": "\u6c5f\u82cf\u98de\u9a6c\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u98de\u9a6c\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u82ef\u78fa\u9178\u5de6\u6c28\u6c2f\u5730\u5e73\u7247",
+                "code": "XC08CAZ067A001010279298",
+                "price": 42.0,
+                "ybPrice": 3.0,
+                "ybCompanyName": "\u65bd\u6167\u8fbe\u836f\u4e1a\u96c6\u56e2(\u5409\u6797)\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u65bd\u6167\u8fbe\u836f\u4e1a\u96c6\u56e2(\u5409\u6797)\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u66ff\u683c\u745e\u6d1b\u7247",
+                "code": "XB01ACT157A001010201359",
+                "price": 388.0,
+                "ybPrice": 6.93,
+                "ybCompanyName": "AstraZeneca AB",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "AstraZeneca AB"
+            },
+            {
+                "name": "\u57f9\u54da\u666e\u5229\u5432\u8fbe\u5e15\u80fa\u7247",
+                "code": "XC09BAP028A001020200847",
+                "price": 84.01,
+                "ybPrice": 4.2,
+                "ybCompanyName": "\u65bd\u7ef4\u96c5(\u5929\u6d25)\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u65bd\u7ef4\u96c5(\u5929\u6d25)\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u66ff\u7c73\u6c99\u5766\u7247",
+                "code": "XC09CAT039A001010201729",
+                "price": 13.8,
+                "ybPrice": 0.57,
+                "ybCompanyName": "\u6c5f\u82cf\u4e07\u90a6\u751f\u5316\u533b\u836f\u96c6\u56e2\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u4e07\u90a6\u751f\u5316\u533b\u836f\u96c6\u56e2\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u5934\u5b62\u4e19\u70ef\u7247",
+                "code": "XJ01DCT066A001010104920",
+                "price": 13.8,
+                "ybPrice": 1.38,
+                "ybCompanyName": "\u6e56\u5357\u65b9\u76db\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6e56\u5357\u65b9\u76db\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c2f\u96f7\u4ed6\u5b9a\u7247",
+                "code": "XR06AXL226A001010200784",
+                "price": 42.46,
+                "ybPrice": 3.54,
+                "ybCompanyName": "\u62dc\u8033\u533b\u836f\u4fdd\u5065\u6709\u9650\u516c\u53f8\u542f\u4e1c\u5206\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u62dc\u8033\u533b\u836f(\u4e0a\u6d77)\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4ed6\u8fbe\u62c9\u975e\u7247",
+                "code": "XG04BET001A001030278403",
+                "price": 950.0,
+                "ybPrice": 33.93,
+                "ybCompanyName": "Lilly del Caribe Inc.",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Eli Lilly Nederland B.V."
+            },
+            {
+                "name": "\u67b8\u6a7c\u9178\u897f\u5730\u90a3\u975e\u7247",
+                "code": "XG04BEX006A001010301187",
+                "price": 813.0,
+                "ybPrice": 81.3,
+                "ybCompanyName": "\u8f89\u745e\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8f89\u745e\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5bcc\u9a6c\u9178\u6bd4\u7d22\u6d1b\u5c14\u7247",
+                "code": "XC07ABB087A001020200052",
+                "price": 22.31,
+                "ybPrice": 1.24,
+                "ybCompanyName": "\u5317\u4eac\u534e\u7d20\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u534e\u7d20\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u590d\u65b9\u963f\u80f6\u6d46",
+                "code": "ZA09BAF0284020404080",
+                "price": 390.72,
+                "ybPrice": 8.14,
+                "ybCompanyName": "\u4e1c\u963f\u963f\u80f6\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e1c\u963f\u963f\u80f6\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u67b8\u6a7c\u9178\u897f\u5730\u90a3\u975e\u7247",
+                "code": "XG04BEX006A001030200381",
+                "price": 51.18,
+                "ybPrice": 25.59,
+                "ybCompanyName": "\u5e7f\u5dde\u767d\u4e91\u5c71\u533b\u836f\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8\u767d\u4e91\u5c71\u5236\u836f\u603b\u5382",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5e7f\u5dde\u767d\u4e91\u5c71\u533b\u836f\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8\u767d\u4e91\u5c71\u5236\u836f\u603b\u5382"
+            },
+            {
+                "name": "\u963f\u6cd5\u9aa8\u5316\u9187\u8f6f\u80f6\u56ca",
+                "code": "XA11CCA017E002020101620",
+                "price": 29.9,
+                "ybPrice": 1.5,
+                "ybCompanyName": "\u5357\u901a\u534e\u5c71\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5357\u901a\u534e\u5c71\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7532\u94b4\u80fa\u80f6\u56ca",
+                "code": "XB03BAJ038E001010101748",
+                "price": 34.27,
+                "ybPrice": 0.69,
+                "ybCompanyName": "\u626c\u5b50\u6c5f\u836f\u4e1a\u96c6\u56e2\u5357\u4eac\u6d77\u9675\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u626c\u5b50\u6c5f\u836f\u4e1a\u96c6\u56e2\u5357\u4eac\u6d77\u9675\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u574e\u5730\u6c99\u5766\u916f\u7247",
+                "code": "XC09CAK033A001010203944",
+                "price": 25.88,
+                "ybPrice": 2.16,
+                "ybCompanyName": "\u8fea\u6c99\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8fea\u6c99\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5934\u5b62\u5730\u5c3c\u5206\u6563\u7247",
+                "code": "XJ01DDT068A006010100928",
+                "price": 17.83,
+                "ybPrice": 2.97,
+                "ybCompanyName": "\u5929\u6d25\u5e02\u4e2d\u592e\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5929\u6d25\u5e02\u4e2d\u592e\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u785d\u82ef\u5730\u5e73\u7f13\u91ca\u7247(\u2160)",
+                "code": "XC08CAX210A010010300294",
+                "price": 22.77,
+                "ybPrice": 0.25,
+                "ybCompanyName": "\u56fd\u836f\u96c6\u56e2\u5e7f\u4e1c\u73af\u7403\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u56fd\u836f\u96c6\u56e2\u5e7f\u4e1c\u73af\u7403\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5934\u5b62\u514b\u809f\u9897\u7c92",
+                "code": "XJ01DDT073N001010500381",
+                "price": 16.1,
+                "ybPrice": 2.01,
+                "ybCompanyName": "\u5e7f\u5dde\u767d\u4e91\u5c71\u533b\u836f\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8\u767d\u4e91\u5c71\u5236\u836f\u603b\u5382",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5e7f\u5dde\u767d\u4e91\u5c71\u533b\u836f\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8\u767d\u4e91\u5c71\u5236\u836f\u603b\u5382"
+            },
+            {
+                "name": "\u975e\u6d1b\u5730\u5e73\u7f13\u91ca\u7247(\u2161)",
+                "code": "XC08CAF663A010010304394",
+                "price": 30.59,
+                "ybPrice": 1.53,
+                "ybCompanyName": "\u5408\u80a5\u7acb\u65b9\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5408\u80a5\u7acb\u65b9\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u66ff\u7c73\u6c99\u5766\u7247",
+                "code": "XC09CAT039A001010300871",
+                "price": 13.8,
+                "ybPrice": 0.49,
+                "ybCompanyName": "\u5929\u6d25\u6000\u4ec1\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5929\u6d25\u6000\u4ec1\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5bcc\u9a6c\u9178\u55b9\u786b\u5e73\u7247",
+                "code": "XN05AHK094A001010104917",
+                "price": 40.02,
+                "ybPrice": 1.33,
+                "ybCompanyName": "\u6e56\u5357\u6d1e\u5ead\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6e56\u5357\u6d1e\u5ead\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u666e\u8418\u6d1b\u5c14\u7247",
+                "code": "XC07AAP101A001010301510",
+                "price": 21.85,
+                "ybPrice": 0.22,
+                "ybCompanyName": "\u6c5f\u82cf\u4e9a\u90a6\u7231\u666e\u68ee\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u4e9a\u90a6\u7231\u666e\u68ee\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u94dd\u78b3\u9178\u9541\u5480\u56bc\u7247",
+                "code": "XA02ADL183A005010205849",
+                "price": 13.86,
+                "ybPrice": 0.58,
+                "ybCompanyName": "\u6d77\u5357\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d77\u5357\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u5de6\u6c27\u6c1f\u6c99\u661f\u6ef4\u773c\u6db2",
+                "code": "XS01AEZ074G010010202298",
+                "price": 17.48,
+                "ybPrice": 1.75,
+                "ybCompanyName": "\u6210\u90fd\u666e\u4ec0\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6210\u90fd\u666e\u4ec0\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u805a\u4e59\u4e8c\u91874000\u6563",
+                "code": "XA06ADJ160P001010201954",
+                "price": 8.28,
+                "ybPrice": 0.83,
+                "ybCompanyName": "\u9a6c\u5e94\u9f99\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9a6c\u5e94\u9f99\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u745e\u8212\u4f10\u4ed6\u6c40\u9499\u7247",
+                "code": "XC10AAR069A001020101594",
+                "price": 17.25,
+                "ybPrice": 2.46,
+                "ybCompanyName": "\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u683c\u5217\u9f50\u7279\u7f13\u91ca\u7247",
+                "code": "XA10BBG070A010010200871",
+                "price": 9.43,
+                "ybPrice": 0.24,
+                "ybCompanyName": "\u5929\u6d25\u6000\u4ec1\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5929\u6d25\u6000\u4ec1\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u591a\u6f58\u7acb\u916e\u7247",
+                "code": "XA03FAD173A001010202529",
+                "price": 28.7,
+                "ybPrice": 0.68,
+                "ybCompanyName": "\u897f\u5b89\u6768\u68ee\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u897f\u5b89\u6768\u68ee\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u94f6\u674f\u53f6\u7247",
+                "code": "ZA12HAY0555020400503",
+                "price": 36.57,
+                "ybPrice": 0.38,
+                "ybCompanyName": "\u6df1\u5733\u6d77\u738b\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6df1\u5733\u6d77\u738b\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u66ff\u683c\u745e\u6d1b\u7247",
+                "code": "XB01ACT157A001010101359",
+                "price": 99.0,
+                "ybPrice": 7.07,
+                "ybCompanyName": "AstraZeneca AB",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "AstraZeneca AB"
+            },
+            {
+                "name": "\u80de\u78f7\u80c6\u78b1\u94a0\u80f6\u56ca",
+                "code": "XN07XXB025E001010204021",
+                "price": 30.49,
+                "ybPrice": 1.27,
+                "ybCompanyName": "\u9f50\u9c81\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9f50\u9c81\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5065\u80c3\u6d88\u98df\u7247",
+                "code": "ZA14AAJ0168020105394",
+                "price": 8.0,
+                "ybPrice": 0.25,
+                "ybCompanyName": "\u6c5f\u4e2d\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u4e2d\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u785d\u82ef\u5730\u5e73\u7f13\u91ca\u7247(\u2161)",
+                "code": "XC08CAX211A010010404043",
+                "price": 27.6,
+                "ybPrice": 0.66,
+                "ybCompanyName": "\u9752\u5c9b\u9ec4\u6d77\u5236\u836f\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9752\u5c9b\u9ec4\u6d77\u5236\u836f\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u5965\u6c2e\u5e73\u7247",
+                "code": "XN05AHA204A001010101444",
+                "price": 44.39,
+                "ybPrice": 6.34,
+                "ybCompanyName": "\u6c5f\u82cf\u8c6a\u68ee\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u8c6a\u68ee\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u6c28\u57fa\u8461\u8404\u7cd6\u7247",
+                "code": "XM01AXA165A001010601473",
+                "price": 161.0,
+                "ybPrice": 2.68,
+                "ybCompanyName": "\u6c5f\u82cf\u6b63\u5927\u6e05\u6c5f\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u6b63\u5927\u6e05\u6c5f\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u66ff\u785d\u5511\u7247",
+                "code": "XJ01XDT045A001010104083",
+                "price": 7.3,
+                "ybPrice": 0.91,
+                "ybCompanyName": "\u5c71\u4e1c\u65b9\u660e\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5c71\u4e1c\u65b9\u660e\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u53cc\u9ec4\u8fde\u53e3\u670d\u6db2",
+                "code": "ZA01BAS0839040203095",
+                "price": 25.3,
+                "ybPrice": 2.53,
+                "ybCompanyName": "\u6cb3\u5357\u592a\u9f99\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6cb3\u5357\u592a\u9f99\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7c73\u683c\u5217\u9187\u7247",
+                "code": "XA10BFM097A001010302264",
+                "price": 45.98,
+                "ybPrice": 1.53,
+                "ybCompanyName": "\u56db\u5ddd\u7ef4\u5965\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u56db\u5ddd\u7ef4\u5965\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u963f\u83ab\u897f\u6797\u80f6\u56ca",
+                "code": "XJ01CAA040E001010405849",
+                "price": 12.08,
+                "ybPrice": 0.24,
+                "ybCompanyName": "\u6d77\u5357\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d77\u5357\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8499\u8131\u77f3\u6563",
+                "code": "XA07BCM081P001010405849",
+                "price": 13.46,
+                "ybPrice": 0.9,
+                "ybCompanyName": "\u6d77\u5357\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d77\u5357\u5148\u58f0\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u745e\u8212\u4f10\u4ed6\u6c40\u9499\u7247",
+                "code": "XC10AAR069A001010110153",
+                "price": 42.0,
+                "ybPrice": 6.0,
+                "ybCompanyName": "Astrazeneca UK limited",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Astrazeneca UK limited"
+            },
+            {
+                "name": "\u5384\u8d1d\u6c99\u5766\u7247",
+                "code": "XC09CAE003A001010101445",
+                "price": 5.62,
+                "ybPrice": 0.8,
+                "ybCompanyName": "\u6c5f\u82cf\u6052\u745e\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u6052\u745e\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u963f\u6614\u6d1b\u97e6\u7247",
+                "code": "XJ05ABA075A001010102770",
+                "price": 3.22,
+                "ybPrice": 0.13,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8f9b\u4f10\u4ed6\u6c40\u7247",
+                "code": "XC10AAX147A001010102777",
+                "price": 4.03,
+                "ybPrice": 0.5,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u8d1d\u90a3\u666e\u5229\u7247",
+                "code": "XC09AAB034A001020100553",
+                "price": 25.12,
+                "ybPrice": 0.9,
+                "ybCompanyName": "\u6df1\u5733\u4fe1\u7acb\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6df1\u5733\u4fe1\u7acb\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u785d\u82ef\u5730\u5e73\u7f13\u91ca\u7247(\u2160)",
+                "code": "XC08CAX210A010010502959",
+                "price": 10.81,
+                "ybPrice": 0.18,
+                "ybCompanyName": "\u4e9a\u5b9d\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e9a\u5b9d\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c2f\u6c99\u5766\u94be\u7247",
+                "code": "XC09CAL245A001020102313",
+                "price": 23.54,
+                "ybPrice": 3.36,
+                "ybCompanyName": "\u626c\u5b50\u6c5f\u836f\u4e1a\u96c6\u56e2\u56db\u5ddd\u6d77\u84c9\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u626c\u5b50\u6c5f\u836f\u4e1a\u96c6\u56e2\u56db\u5ddd\u6d77\u84c9\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u5ea6\u6d1b\u897f\u6c40\u80a0\u6eb6\u7247",
+                "code": "XN06AXD151A012010100834",
+                "price": 71.76,
+                "ybPrice": 3.59,
+                "ybCompanyName": "\u4e0a\u6d77\u4e0a\u836f\u4e2d\u897f\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e0a\u6d77\u4e0a\u836f\u4e2d\u897f\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7f2c\u6c99\u5766\u6c22\u6c2f\u567b\u55ea\u7247",
+                "code": "XC09DAX144A001010100100",
+                "price": 38.47,
+                "ybPrice": 5.5,
+                "ybCompanyName": "Novartis Farma S.p.A.(I)",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Novartis Pharma Schweiz AG"
+            },
+            {
+                "name": "\u6c22\u6eb4\u9178\u897f\u915e\u666e\u5170\u7247",
+                "code": "XN06ABX016A001010105589",
+                "price": 12.65,
+                "ybPrice": 1.05,
+                "ybCompanyName": "\u6606\u660e\u79ef\u5927\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6606\u660e\u79ef\u5927\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u52a0\u5df4\u55b7\u4e01\u80f6\u56ca",
+                "code": "XN03AXJ019E001010101436",
+                "price": 20.09,
+                "ybPrice": 0.42,
+                "ybCompanyName": "\u6c5f\u82cf\u6069\u534e\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u6069\u534e\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5b5f\u9c81\u53f8\u7279\u94a0\u5480\u56bc\u7247",
+                "code": "XR03DCM082A005010178639",
+                "price": 33.19,
+                "ybPrice": 6.64,
+                "ybCompanyName": "Organon Pharma(UK) Limited",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Merck Sharp & Dohme B.V."
+            },
+            {
+                "name": "\u5384\u8d1d\u6c99\u5766\u6c22\u6c2f\u567b\u55ea\u5206\u6563\u7247",
+                "code": "XC09DAE004A006010101503",
+                "price": 7.71,
+                "ybPrice": 1.1,
+                "ybCompanyName": "\u6c5f\u82cf\u4e07\u9ad8\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u4e07\u9ad8\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8349\u9178\u827e\u53f8\u897f\u915e\u666e\u5170\u7247",
+                "code": "XN06ABA225A001030104111",
+                "price": 66.88,
+                "ybPrice": 4.78,
+                "ybCompanyName": "\u5c71\u4e1c\u4eac\u536b\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5c71\u4e1c\u4eac\u536b\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u574e\u5730\u6c99\u5766\u916f\u7247",
+                "code": "XC09CAK033A001020301034",
+                "price": 14.72,
+                "ybPrice": 1.05,
+                "ybCompanyName": "\u91cd\u5e86\u5723\u534e\u66e6\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u91cd\u5e86\u5723\u534e\u66e6\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u80de\u78f7\u80c6\u78b1\u94a0\u80f6\u56ca",
+                "code": "XN07XXB025E001010104021",
+                "price": 15.64,
+                "ybPrice": 1.3,
+                "ybCompanyName": "\u9f50\u9c81\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9f50\u9c81\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u585e\u6765\u6614\u5e03\u80f6\u56ca",
+                "code": "XM01AHS002E001010278724",
+                "price": 31.67,
+                "ybPrice": 5.28,
+                "ybCompanyName": "Pfizer Pharmaceuticals LLC",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "G.D.Searle LLC"
+            },
+            {
+                "name": "\u718a\u53bb\u6c27\u80c6\u9178\u80f6\u56ca",
+                "code": "XA05AAX163E001010178373",
+                "price": 213.0,
+                "ybPrice": 8.52,
+                "ybCompanyName": "Losan Pharma GmbH",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Dr. Falk Pharma GmbH"
+            },
+            {
+                "name": "\u9152\u77f3\u9178\u7f8e\u6258\u6d1b\u5c14\u7247",
+                "code": "XC07ABM062A001020201667",
+                "price": 5.18,
+                "ybPrice": 0.26,
+                "ybCompanyName": "\u82cf\u5dde\u7231\u7f8e\u6d25\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u82cf\u5dde\u7231\u7f8e\u6d25\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6d1b\u7d22\u6d1b\u82ac\u94a0\u7247",
+                "code": "XM01AEL283A001010100745",
+                "price": 22.03,
+                "ybPrice": 1.1,
+                "ybCompanyName": "\u7b2c\u4e00\u4e09\u5171\u5236\u836f(\u4e0a\u6d77)\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u7b2c\u4e00\u4e09\u5171\u5236\u836f(\u4e0a\u6d77)\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u683c\u5217\u9f50\u7279\u7f13\u91ca\u7247",
+                "code": "XA10BBG070A010010100847",
+                "price": 43.8,
+                "ybPrice": 1.46,
+                "ybCompanyName": "\u65bd\u7ef4\u96c5(\u5929\u6d25)\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u65bd\u7ef4\u96c5(\u5929\u6d25)\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5384\u8d1d\u6c99\u5766\u6c22\u6c2f\u567b\u55ea\u7247",
+                "code": "XC09DAE004A001010178814",
+                "price": 11.27,
+                "ybPrice": 1.61,
+                "ybCompanyName": "Sanofi Winthrop Industrie",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Sanofi-aventis groupe"
+            },
+            {
+                "name": "\u6c22\u6eb4\u9178\u897f\u915e\u666e\u5170\u7247",
+                "code": "XN06ABX016A001010182110",
+                "price": 130.16,
+                "ybPrice": 9.3,
+                "ybCompanyName": "H. Lundbeck A/S",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "H. Lundbeck A/S"
+            },
+            {
+                "name": "\u94f6\u674f\u53f6\u7247",
+                "code": "ZA12HAY0555010104241",
+                "price": 10.93,
+                "ybPrice": 0.46,
+                "ybCompanyName": "\u70df\u53f0\u8363\u660c\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u70df\u53f0\u8363\u660c\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u5de6\u897f\u66ff\u5229\u55ea\u7247",
+                "code": "XR06AEZ066A001010101003",
+                "price": 15.81,
+                "ybPrice": 1.05,
+                "ybCompanyName": "\u91cd\u5e86\u534e\u90a6\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u91cd\u5e86\u534e\u90a6\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u897f\u66ff\u5229\u55ea\u7247",
+                "code": "XR06AEX017A001010204021",
+                "price": 2.76,
+                "ybPrice": 0.23,
+                "ybCompanyName": "\u9f50\u9c81\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9f50\u9c81\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8212\u809d\u5065\u80c3\u4e38",
+                "code": "ZA13BAS0699010103065",
+                "price": null,
+                "ybPrice": 1.44,
+                "ybCompanyName": "\u6cb3\u5357\u7701\u767e\u6cc9\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6cb3\u5357\u7701\u767e\u6cc9\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8f9b\u4f10\u4ed6\u6c40\u7247",
+                "code": "XC10AAX147A001011104131",
+                "price": 4.83,
+                "ybPrice": 0.23,
+                "ybCompanyName": "\u5c71\u4e1c\u9c81\u6297\u533b\u836f\u96c6\u56e2\u8d5b\u7279\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5c71\u4e1c\u9c81\u6297\u533b\u836f\u96c6\u56e2\u8d5b\u7279\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u9aa8\u5316\u4e09\u9187\u80f6\u4e38",
+                "code": "XA11CCG111E002010100723",
+                "price": 48.76,
+                "ybPrice": 4.88,
+                "ybCompanyName": "Catalent Germany Eberbach GmbH",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Roche Pharma(Schweiz) Ltd."
+            },
+            {
+                "name": "\u5b5f\u9c81\u53f8\u7279\u94a0\u5480\u56bc\u7247",
+                "code": "XR03DCM082A005020178639",
+                "price": 32.11,
+                "ybPrice": 6.42,
+                "ybCompanyName": "Organon Pharma(UK) Limited",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Merck Sharp & Dohme B.V."
+            },
+            {
+                "name": "\u5f02\u70df\u80bc\u7247",
+                "code": "XJ04ACY155A001010100886",
+                "price": 7.36,
+                "ybPrice": 0.07,
+                "ybCompanyName": "\u5929\u6d25\u529b\u751f\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5929\u6d25\u529b\u751f\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u8d1d\u90a3\u666e\u5229\u7247",
+                "code": "XC09AAB034A001010200553",
+                "price": 21.9,
+                "ybPrice": 1.56,
+                "ybCompanyName": "\u6df1\u5733\u4fe1\u7acb\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6df1\u5733\u4fe1\u7acb\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5c0f\u513f\u4e03\u661f\u8336\u9897\u7c92",
+                "code": "ZA14AAX0455010100424",
+                "price": 16.68,
+                "ybPrice": 15.53,
+                "ybCompanyName": "\u5e7f\u5dde\u738b\u8001\u5409\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5e7f\u5dde\u738b\u8001\u5409\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7c73\u6c2e\u5e73\u7247",
+                "code": "XN06AXM093A001020101416",
+                "price": 71.88,
+                "ybPrice": 7.19,
+                "ybCompanyName": "\u534e\u88d5(\u65e0\u9521)\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u534e\u88d5(\u65e0\u9521)\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5438\u5165\u7528\u5e03\u5730\u5948\u5fb7\u6df7\u60ac\u6db2",
+                "code": "XR03BAB165L023020378239",
+                "price": 70.0,
+                "ybPrice": 14.0,
+                "ybCompanyName": "AstraZeneca Pty Ltd",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "AstraZeneca Pty Ltd"
+            },
+            {
+                "name": "\u718a\u80c6\u7c89",
+                "code": "ZA04AAX0759020105640",
+                "price": 690.0,
+                "ybPrice": 69.0,
+                "ybCompanyName": "\u4e91\u5357\u5927\u7406\u745e\u9e64\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e91\u5357\u5927\u7406\u745e\u9e64\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u9aa8\u5316\u4e09\u9187\u8f6f\u80f6\u56ca",
+                "code": "XA11CCG111E002010180937",
+                "price": 12.08,
+                "ybPrice": 1.21,
+                "ybCompanyName": "\u56db\u5ddd\u56fd\u4e3a\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u56db\u5ddd\u56fd\u4e3a\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5965\u7f8e\u62c9\u5511\u9541\u80a0\u6eb6\u7247",
+                "code": "XA02BCA211A012020279096",
+                "price": 108.0,
+                "ybPrice": 7.71,
+                "ybCompanyName": "AstraZeneca AB",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "AstraZeneca AB"
+            },
+            {
+                "name": "\u82ef\u78fa\u9178\u6c28\u6c2f\u5730\u5e73\u7247",
+                "code": "XC08CAA187A001030201650",
+                "price": 11.73,
+                "ybPrice": 0.84,
+                "ybCompanyName": "\u82cf\u5dde\u4e1c\u745e\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u82cf\u5dde\u4e1c\u745e\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u8d1d\u90a3\u666e\u5229\u7247",
+                "code": "XC09AAB034A001010100795",
+                "price": 16.68,
+                "ybPrice": 1.19,
+                "ybCompanyName": "\u4e0a\u6d77\u65b0\u4e9a\u836f\u4e1a\u95f5\u884c\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e0a\u6d77\u65b0\u4e9a\u836f\u4e1a\u95f5\u884c\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7f8e\u6d1b\u6614\u5eb7\u5206\u6563\u7247",
+                "code": "XM01ACM049A006010101510",
+                "price": 10.12,
+                "ybPrice": 0.84,
+                "ybCompanyName": "\u6c5f\u82cf\u4e9a\u90a6\u7231\u666e\u68ee\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u4e9a\u90a6\u7231\u666e\u68ee\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5934\u5b62\u514b\u809f\u9897\u7c92",
+                "code": "XJ01DDT073N001020100555",
+                "price": 7.65,
+                "ybPrice": 1.27,
+                "ybCompanyName": "\u56fd\u836f\u96c6\u56e2\u81f4\u541b(\u6df1\u5733)\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u56fd\u836f\u96c6\u56e2\u81f4\u541b(\u6df1\u5733)\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7f2c\u6c99\u5766\u5206\u6563\u7247",
+                "code": "XC09CAX143A006010104010",
+                "price": 45.43,
+                "ybPrice": 1.89,
+                "ybCompanyName": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u683c\u5217\u5421\u55ea\u7f13\u91ca\u7247",
+                "code": "XA10BBG067A010010101749",
+                "price": 9.3,
+                "ybPrice": 0.78,
+                "ybCompanyName": "\u626c\u5b50\u6c5f\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u626c\u5b50\u6c5f\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5934\u5b62\u544b\u8f9b\u916f\u80f6\u56ca",
+                "code": "XJ01DCT162E001010100555",
+                "price": 6.44,
+                "ybPrice": 0.54,
+                "ybCompanyName": "\u56fd\u836f\u96c6\u56e2\u81f4\u541b(\u6df1\u5733)\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u56fd\u836f\u96c6\u56e2\u81f4\u541b(\u6df1\u5733)\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5bcc\u9a6c\u9178\u55b9\u786b\u5e73\u7247",
+                "code": "XN05AHK094A001010101359",
+                "price": 225.0,
+                "ybPrice": 11.25,
+                "ybCompanyName": "AstraZeneca UK Limited",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "AstraZeneca UK Limited"
+            },
+            {
+                "name": "\u5417\u66ff\u9ea6\u8003\u915a\u916f\u5206\u6563\u7247",
+                "code": "XL04AAM026A006010104520",
+                "price": 272.18,
+                "ybPrice": 6.8,
+                "ybCompanyName": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u683c\u5217\u7f8e\u8132\u7247",
+                "code": "XA10BBG069A001010100231",
+                "price": 55.78,
+                "ybPrice": 3.72,
+                "ybCompanyName": "\u8d5b\u8bfa\u83f2(\u5317\u4eac)\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8d5b\u8bfa\u83f2(\u5317\u4eac)\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5417\u66ff\u9ea6\u8003\u915a\u916f\u80f6\u56ca",
+                "code": "XL04AAM026E001010100723",
+                "price": 580.0,
+                "ybPrice": 14.5,
+                "ybCompanyName": "\u4e0a\u6d77\u7f57\u6c0f\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e0a\u6d77\u7f57\u6c0f\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u5e15\u7f57\u897f\u6c40\u7247",
+                "code": "XN06ABP002A001010104655",
+                "price": 25.88,
+                "ybPrice": 2.16,
+                "ybCompanyName": "\u6d59\u6c5f\u5c16\u5cf0\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u5c16\u5cf0\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5934\u5b62\u6c28\u82c4\u80f6\u56ca",
+                "code": "XJ01DBT063E001010102770",
+                "price": 6.9,
+                "ybPrice": 0.29,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u786b\u9178\u6c28\u57fa\u8461\u8404\u7cd6\u80f6\u56ca",
+                "code": "XM01AXA165E001010279343",
+                "price": 48.3,
+                "ybPrice": 2.42,
+                "ybCompanyName": "Rottapharm Ltd.",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "ROTTAPHARM S.P.A"
+            },
+            {
+                "name": "\u4f9d\u5df4\u65af\u6c40\u7247",
+                "code": "XR06AXY065A001010104471",
+                "price": 15.53,
+                "ybPrice": 1.55,
+                "ybCompanyName": "\u676d\u5dde\u4edf\u6e90\u4fdd\u7075\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u676d\u5dde\u4edf\u6e90\u4fdd\u7075\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u66f2\u7f8e\u4ed6\u55ea\u7247",
+                "code": "XC01EBQ102A001010100847",
+                "price": 33.93,
+                "ybPrice": 1.13,
+                "ybCompanyName": "\u65bd\u7ef4\u96c5(\u5929\u6d25)\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u65bd\u7ef4\u96c5(\u5929\u6d25)\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u805a\u4e59\u4e8c\u91874000\u6563",
+                "code": "XA06ADJ160P001010178274",
+                "price": 31.28,
+                "ybPrice": 3.13,
+                "ybCompanyName": "Beaufour Ipsen Industrie",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Beaufour Ipsen Industrie"
+            },
+            {
+                "name": "\u57f9\u54da\u666e\u5229\u53d4\u4e01\u80fa\u7247",
+                "code": "XC09AAP027A001010200847",
+                "price": 31.63,
+                "ybPrice": 3.16,
+                "ybCompanyName": "\u65bd\u7ef4\u96c5(\u5929\u6d25)\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u65bd\u7ef4\u96c5(\u5929\u6d25)\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8840\u5e9c\u9010\u7600\u53e3\u670d\u6db2",
+                "code": "ZA12BAX0832010103357",
+                "price": 23.43,
+                "ybPrice": 2.34,
+                "ybCompanyName": "\u5409\u6797\u6556\u4e1c\u5ef6\u8fb9\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5409\u6797\u6556\u4e1c\u5ef6\u8fb9\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u745e\u683c\u5217\u5948\u7247",
+                "code": "XA10BXR068A001010278997",
+                "price": 57.95,
+                "ybPrice": 1.93,
+                "ybCompanyName": "Boehringer Ingelheim Pharma GmbH & Co.KG",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Novo Nordisk A/S"
+            },
+            {
+                "name": "\u745e\u683c\u5217\u5948\u7247",
+                "code": "XA10BXR068A001020278997",
+                "price": 66.57,
+                "ybPrice": 2.22,
+                "ybCompanyName": "Boehringer Ingelheim Pharma GmbH & Co.KG",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Novo Nordisk A/S"
+            },
+            {
+                "name": "\u786b\u9178\u6c28\u57fa\u8461\u8404\u7cd6\u80f6\u56ca",
+                "code": "XM01AXA165E001010679183",
+                "price": 215.0,
+                "ybPrice": 2.15,
+                "ybCompanyName": "Yung Shin Pharmaceutical Ind.Co.,Ltd.Taichung Youth Factory",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Yung Shin Pharmaceutical Ind. Co., Ltd. Taichung Youth Factory"
+            },
+            {
+                "name": "\u76d0\u9178\u5766\u7d22\u7f57\u8f9b\u7f13\u91ca\u80f6\u56ca",
+                "code": "XG04CAT011E003010101076",
+                "price": 55.2,
+                "ybPrice": 5.52,
+                "ybCompanyName": "\u5b89\u65af\u6cf0\u6765\u5236\u836f(\u4e2d\u56fd)\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5b89\u65af\u6cf0\u6765\u5236\u836f(\u4e2d\u56fd)\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7f2c\u6c99\u5766\u6c28\u6c2f\u5730\u5e73\u7247(I)",
+                "code": "XC09DBX206A001010100886",
+                "price": 42.0,
+                "ybPrice": 3.0,
+                "ybCompanyName": "\u5929\u6d25\u529b\u751f\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5929\u6d25\u529b\u751f\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u91d1\u94f6\u82b1\u53e3\u670d\u6db2",
+                "code": "ZA04BAJ0499020201795",
+                "price": 52.4,
+                "ybPrice": 5.24,
+                "ybCompanyName": "\u6b66\u6c49\u5eb7\u4e50\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8\u3001\u771f\u5965\u91d1\u94f6\u82b1\u836f\u4e1a\u6709\u9650\u516c\u53f8\u3001\u6e56\u5317\u5348\u65f6\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u771f\u5965\u91d1\u94f6\u82b1\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5b5f\u9c81\u53f8\u7279\u94a0\u5480\u56bc\u7247",
+                "code": "XR03DCM082A005020483521",
+                "price": 22.01,
+                "ybPrice": 1.57,
+                "ybCompanyName": "\u6d59\u6c5f\u8bfa\u5f97\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u8bfa\u5f97\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5965\u785d\u5511\u7247",
+                "code": "XP01ABA222A017060102461",
+                "price": 19.03,
+                "ybPrice": 0.79,
+                "ybCompanyName": "\u534e\u4e1c\u533b\u836f(\u897f\u5b89)\u535a\u534e\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u534e\u4e1c\u533b\u836f(\u897f\u5b89)\u535a\u534e\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8840\u5e9c\u9010\u7600\u4e38",
+                "code": "ZA12BAX0836010103494",
+                "price": 30.0,
+                "ybPrice": 3.0,
+                "ybCompanyName": "\u5409\u6797\u4e00\u6b63\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5409\u6797\u4e00\u6b63\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5965\u7f8e\u6c99\u5766\u916f\u7247",
+                "code": "XC09CAA257A001010283521",
+                "price": 56.84,
+                "ybPrice": 4.06,
+                "ybCompanyName": "\u6d59\u6c5f\u8bfa\u5f97\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u8bfa\u5f97\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7f2c\u6c99\u5766\u6c28\u6c2f\u5730\u5e73\u7247(\u2160)",
+                "code": "XC09DBX206A001010283521",
+                "price": 81.08,
+                "ybPrice": 5.79,
+                "ybCompanyName": "\u6d59\u6c5f\u8bfa\u5f97\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u8bfa\u5f97\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7f2c\u6c99\u5766\u6c22\u6c2f\u567b\u55ea\u7247",
+                "code": "XC09DAX144A001010283521",
+                "price": 57.88,
+                "ybPrice": 4.13,
+                "ybCompanyName": "\u6d59\u6c5f\u8bfa\u5f97\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u8bfa\u5f97\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u94f6\u674f\u53f6\u7247",
+                "code": "ZA12HAY0555010404670",
+                "price": 60.0,
+                "ybPrice": 1.0,
+                "ybCompanyName": "\u6d59\u6c5f\u5eb7\u6069\u8d1d\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u5eb7\u6069\u8d1d\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7f8e\u6d1b\u6614\u5eb7\u7247",
+                "code": "XM01ACM049A001010204554",
+                "price": 14.0,
+                "ybPrice": 1.17,
+                "ybCompanyName": "\u5b81\u6ce2\u5927\u7ea2\u9e70\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5b81\u6ce2\u5927\u7ea2\u9e70\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u78f7\u9178\u5965\u53f8\u4ed6\u97e6\u80f6\u56ca",
+                "code": "XJ05AHA218E001010102770",
+                "price": 40.25,
+                "ybPrice": 4.03,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u786b\u9178\u6c22\u6c2f\u5421\u683c\u96f7\u7247",
+                "code": "XB01ACL190A001030103094",
+                "price": 46.0,
+                "ybPrice": 3.29,
+                "ybCompanyName": "\u4e50\u666e\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e50\u666e\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76ca\u80be\u517b\u5fc3\u5b89\u795e\u7247",
+                "code": "ZA10DAY0786010102767",
+                "price": 49.9,
+                "ybPrice": 2.08,
+                "ybCompanyName": "\u77f3\u5bb6\u5e84\u4ee5\u5cad\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u5bb6\u5e84\u4ee5\u5cad\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u89e3\u90c1\u9664\u70e6\u80f6\u56ca",
+                "code": "ZA10CAJ0749010102767",
+                "price": 47.04,
+                "ybPrice": 1.96,
+                "ybCompanyName": "\u77f3\u5bb6\u5e84\u4ee5\u5cad\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u5bb6\u5e84\u4ee5\u5cad\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u745e\u683c\u5217\u5948\u7247",
+                "code": "XA10BXR068A001010101444",
+                "price": 14.03,
+                "ybPrice": 0.47,
+                "ybCompanyName": "\u6c5f\u82cf\u8c6a\u68ee\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u8c6a\u68ee\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c2f\u6c99\u5766\u94be\u6c22\u6c2f\u567b\u55ea\u7247",
+                "code": "XC09DAL246A001010104495",
+                "price": 43.0,
+                "ybPrice": 6.14,
+                "ybCompanyName": "Merck Sharp & Dohme Limited",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Merck Sharp & Dohme B.V."
+            },
+            {
+                "name": "\u67b8\u6a7c\u9178\u897f\u5730\u90a3\u975e\u7247",
+                "code": "XG04BEX006A001010201187",
+                "price": 437.0,
+                "ybPrice": 87.4,
+                "ybCompanyName": "\u8f89\u745e\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8f89\u745e\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5965\u7f8e\u62c9\u5511\u80a0\u6eb6\u80f6\u56ca",
+                "code": "XA02BCA211E005010402770",
+                "price": 10.93,
+                "ybPrice": 0.52,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7852\u9175\u6bcd\u7247",
+                "code": "XA12CEX037A001010203820",
+                "price": 39.0,
+                "ybPrice": 0.65,
+                "ybCompanyName": "\u7261\u4e39\u6c5f\u7075\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u7261\u4e39\u6c5f\u7075\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c2f\u5316\u94be\u7f13\u91ca\u7247",
+                "code": "XA12BAL208A010010181084",
+                "price": 11.16,
+                "ybPrice": 0.47,
+                "ybCompanyName": "\u5e7f\u5dde\u8a89\u4e1c\u5065\u5eb7\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5e7f\u5dde\u8a89\u4e1c\u5065\u5eb7\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u9e21\u9aa8\u8349\u80f6\u56ca",
+                "code": "ZA04CCJ0003010205172",
+                "price": 26.88,
+                "ybPrice": 0.56,
+                "ybCompanyName": "\u5e7f\u897f\u7389\u6797\u5236\u836f\u96c6\u56e2\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5e7f\u897f\u7389\u6797\u5236\u836f\u96c6\u56e2\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u4e8c\u7532\u53cc\u80cd\u7247",
+                "code": "XA10BAE021A001010200931",
+                "price": 6.67,
+                "ybPrice": 0.07,
+                "ybCompanyName": "\u5929\u6d25\u592a\u5e73\u6d0b\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5929\u6d25\u592a\u5e73\u6d0b\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5229\u57f9\u916e\u7247",
+                "code": "XN05AXL071A001020102529",
+                "price": 98.47,
+                "ybPrice": 4.92,
+                "ybCompanyName": "\u897f\u5b89\u6768\u68ee\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u897f\u5b89\u6768\u68ee\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7532\u785d\u5511\u7247",
+                "code": "XP01ABJ070A001010202959",
+                "price": 7.8,
+                "ybPrice": 0.08,
+                "ybCompanyName": "\u4e9a\u5b9d\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e9a\u5b9d\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u683c\u5217\u5421\u55ea\u7247",
+                "code": "XA10BBG067A001010103944",
+                "price": 20.56,
+                "ybPrice": 0.26,
+                "ybCompanyName": "\u8fea\u6c99\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8fea\u6c99\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7f9f\u82ef\u78fa\u9178\u9499\u80f6\u56ca",
+                "code": "XS01XAQ020E001020202503",
+                "price": 29.33,
+                "ybPrice": 1.47,
+                "ybCompanyName": "\u897f\u5b89\u5229\u541b\u5236\u836f\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u897f\u5b89\u5229\u541b\u5236\u836f\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u963f\u83ab\u897f\u6797\u80f6\u56ca",
+                "code": "XJ01CAA040E001020102777",
+                "price": 2.59,
+                "ybPrice": 0.13,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u4e2d\u8bfa\u836f\u4e1a(\u77f3\u5bb6\u5e84)\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u4e2d\u8bfa\u836f\u4e1a(\u77f3\u5bb6\u5e84)\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u975e\u90a3\u96c4\u80fa\u7247",
+                "code": "XG04CBF019A001010104495",
+                "price": 166.0,
+                "ybPrice": 5.93,
+                "ybCompanyName": "AIAC International Pharma LLC",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Merck Sharp & Dohme Australia Pty. Ltd."
+            },
+            {
+                "name": "\u6c1f\u54cc\u567b\u5428\u7f8e\u5229\u66f2\u8f9b\u7247",
+                "code": "XN06CAF088A001010178996",
+                "price": 52.9,
+                "ybPrice": 2.65,
+                "ybCompanyName": "H.Lundbeck A/S",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "H.Lundbeck A/S"
+            },
+            {
+                "name": "\u76d0\u9178\u6c1f\u6842\u5229\u55ea\u80f6\u56ca",
+                "code": "XN07CAF072E001010302753",
+                "price": 5.98,
+                "ybPrice": 0.1,
+                "ybCompanyName": "\u77f3\u5bb6\u5e84\u5e02\u534e\u65b0\u836f\u4e1a\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u5bb6\u5e84\u5e02\u534e\u65b0\u836f\u4e1a\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u5229\u57f9\u916e\u7247",
+                "code": "XN05AXL071A001010102529",
+                "price": 53.0,
+                "ybPrice": 2.65,
+                "ybCompanyName": "\u897f\u5b89\u6768\u68ee\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u897f\u5b89\u6768\u68ee\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u975e\u90a3\u96c4\u80fa\u7247",
+                "code": "XG04CBF019A001020104495",
+                "price": 58.0,
+                "ybPrice": 5.8,
+                "ybCompanyName": "AIAC International Pharma LLC",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Merck Sharp & Dohme Limited"
+            },
+            {
+                "name": "\u8f9b\u4f10\u4ed6\u6c40\u7247",
+                "code": "XC10AAX147A001010104495",
+                "price": 23.3,
+                "ybPrice": 3.33,
+                "ybCompanyName": "Merck Sharp & Dohme Limited",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Merck Sharp & Dohme B.V."
+            },
+            {
+                "name": "\u5361\u6258\u666e\u5229\u7247",
+                "code": "XC09AAK028A001010101397",
+                "price": 14.72,
+                "ybPrice": 0.15,
+                "ybCompanyName": "\u5e38\u5dde\u5236\u836f\u5382\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5e38\u5dde\u5236\u836f\u5382\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5355\u785d\u9178\u5f02\u5c71\u68a8\u916f\u7247",
+                "code": "XC01DAD024A001010304012",
+                "price": 35.7,
+                "ybPrice": 0.74,
+                "ybCompanyName": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u80f0\u6fc0\u80bd\u539f\u9176\u80a0\u6eb6\u7247",
+                "code": "XC04AFY101A012010101379",
+                "price": 28.57,
+                "ybPrice": 1.19,
+                "ybCompanyName": "\u5e38\u5dde\u5343\u7ea2\u751f\u5316\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5e38\u5dde\u5343\u7ea2\u751f\u5316\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5355\u785d\u9178\u5f02\u5c71\u68a8\u916f\u7247",
+                "code": "XC01DAD024A001010100453",
+                "price": 14.15,
+                "ybPrice": 0.28,
+                "ybCompanyName": "\u4e3d\u73e0\u96c6\u56e2\u4e3d\u73e0\u5236\u836f\u5382",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e3d\u73e0\u96c6\u56e2\u4e3d\u73e0\u5236\u836f\u5382"
+            },
+            {
+                "name": "\u785d\u82ef\u5730\u5e73\u7247",
+                "code": "XC08CAX066A001010102777",
+                "price": 2.88,
+                "ybPrice": 0.03,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u6c1f\u6842\u5229\u55ea\u80f6\u56ca",
+                "code": "XN07CAF072E001010102529",
+                "price": 24.97,
+                "ybPrice": 1.25,
+                "ybCompanyName": "\u897f\u5b89\u6768\u68ee\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u897f\u5b89\u6768\u68ee\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c1f\u5eb7\u5511\u7247",
+                "code": "XJ02ACF075A001010102763",
+                "price": 5.64,
+                "ybPrice": 1.88,
+                "ybCompanyName": "\u77f3\u5bb6\u5e84\u56db\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u5bb6\u5e84\u56db\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u4e8c\u7532\u53cc\u80cd\u80a0\u6eb6\u7247",
+                "code": "XA10BAE021A012010200088",
+                "price": 17.48,
+                "ybPrice": 0.36,
+                "ybCompanyName": "\u5317\u4eac\u5229\u9f84\u6052\u6cf0\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u5229\u9f84\u6052\u6cf0\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u683c\u5217\u5421\u55ea\u7247",
+                "code": "XA10BBG067A001010105838",
+                "price": 15.53,
+                "ybPrice": 0.52,
+                "ybCompanyName": "\u6d77\u5357\u8d5e\u90a6\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d77\u5357\u8d5e\u90a6\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u590d\u65b9\u5229\u8840\u5e73\u7247",
+                "code": "XC02LAF352A001010102777",
+                "price": 6.0,
+                "ybPrice": 0.06,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5c3c\u7fa4\u5730\u5e73\u7247",
+                "code": "XC08CAN045A001010102777",
+                "price": 4.5,
+                "ybPrice": 0.04,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u53cc\u9ec4\u8fde\u53e3\u670d\u6db2",
+                "code": "ZA01BAS0839020303095",
+                "price": 17.83,
+                "ybPrice": 1.78,
+                "ybCompanyName": "\u6cb3\u5357\u592a\u9f99\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6cb3\u5357\u592a\u9f99\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u785d\u82ef\u5730\u5e73\u7f13\u91ca\u7247(\u2161)",
+                "code": "XC08CAX211A010010400681",
+                "price": 10.12,
+                "ybPrice": 0.17,
+                "ybCompanyName": "\u4e0a\u6d77\u4fe1\u8c0a\u5929\u5e73\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e0a\u6d77\u4fe1\u8c0a\u5929\u5e73\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6d53\u7f29\u5f53\u5f52\u4e38",
+                "code": "ZD01AAN0155010103082",
+                "price": 32.8,
+                "ybPrice": 27.5,
+                "ybCompanyName": "\u4ef2\u666f\u5b9b\u897f\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4ef2\u666f\u5b9b\u897f\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4f9d\u6258\u8003\u6614\u7247",
+                "code": "XM01AHY094A001020204495",
+                "price": 41.17,
+                "ybPrice": 8.23,
+                "ybCompanyName": "Rovi Pharma Industrial Services S.A.",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Merck Sharp & Dohme B.V."
+            },
+            {
+                "name": "\u5929\u548c\u8ffd\u98ce\u818f",
+                "code": "ZA15GAT0062020105211",
+                "price": null,
+                "ybPrice": 2.42,
+                "ybCompanyName": "\u6842\u6797\u534e\u6da6\u5929\u548c\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6842\u6797\u534e\u6da6\u5929\u548c\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5339\u4f10\u4ed6\u6c40\u9499\u7247",
+                "code": "XC10AAP051A001020100144",
+                "price": 23.0,
+                "ybPrice": 3.29,
+                "ybCompanyName": "\u534e\u6da6\u53cc\u9e64\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u534e\u6da6\u53cc\u9e64\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u67b8\u6a7c\u9178\u83ab\u6c99\u5fc5\u5229\u7247",
+                "code": "XA03FAM120A001010104012",
+                "price": 20.55,
+                "ybPrice": 0.86,
+                "ybCompanyName": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u666e\u745e\u5df4\u6797\u80f6\u56ca",
+                "code": "XN02BGP112E001020101187",
+                "price": 66.8,
+                "ybPrice": 8.35,
+                "ybCompanyName": "Pfizer Manufacturing Deutschland GmbH,Betriebsstatte Freiburg",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Pfizer Europe MA EEIG"
+            },
+            {
+                "name": "\u53cc\u9ec4\u8fde\u53e3\u670d\u6db2",
+                "code": "ZA01BAS0839030103095",
+                "price": 15.64,
+                "ybPrice": 2.61,
+                "ybCompanyName": "\u6cb3\u5357\u592a\u9f99\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6cb3\u5357\u592a\u9f99\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6d3b\u8840\u6b62\u75db\u80f6\u56ca",
+                "code": "ZG02AAH0408010301609",
+                "price": 6.18,
+                "ybPrice": 0.21,
+                "ybCompanyName": "\u5357\u4eac\u4e2d\u5c71\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5357\u4eac\u4e2d\u5c71\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u963f\u5947\u9709\u7d20\u7247",
+                "code": "XJ01FAA051A001010201187",
+                "price": 54.79,
+                "ybPrice": 9.13,
+                "ybCompanyName": "\u8f89\u745e\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8f89\u745e\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u590d\u65b9\u03b1-\u916e\u9178\u7247",
+                "code": "XV02DEF113A001010300033",
+                "price": 218.96,
+                "ybPrice": 2.19,
+                "ybCompanyName": "\u5317\u4eac\u8d39\u68ee\u5c24\u65af\u5361\u6bd4\u533b\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u8d39\u68ee\u5c24\u65af\u5361\u6bd4\u533b\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u785d\u82ef\u5730\u5e73\u7f13\u91ca\u7247(\u2161)",
+                "code": "XC08CAX211A010010304043",
+                "price": 20.33,
+                "ybPrice": 0.68,
+                "ybCompanyName": "\u9752\u5c9b\u9ec4\u6d77\u5236\u836f\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9752\u5c9b\u9ec4\u6d77\u5236\u836f\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u820d\u66f2\u6797\u7247",
+                "code": "XN06ABS066A001010101187",
+                "price": 83.36,
+                "ybPrice": 5.95,
+                "ybCompanyName": "\u8f89\u745e\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8f89\u745e\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u5e15\u7f57\u897f\u6c40\u7247",
+                "code": "XN06ABP002A001010100969",
+                "price": 80.09,
+                "ybPrice": 8.01,
+                "ybCompanyName": "\u845b\u5170\u7d20\u53f2\u514b(\u5929\u6d25)\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e2d\u7f8e\u5929\u6d25\u53f2\u514b\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u7279\u62c9\u5511\u55ea\u7247",
+                "code": "XG04CAT026A001010105795",
+                "price": 8.97,
+                "ybPrice": 0.64,
+                "ybCompanyName": "\u6d77\u5357\u7eff\u5c9b\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d77\u5357\u7eff\u5c9b\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5c3c\u7fa4\u5730\u5e73\u7247",
+                "code": "XC08CAN045A001010100931",
+                "price": 5.18,
+                "ybPrice": 0.05,
+                "ybCompanyName": "\u5929\u6d25\u592a\u5e73\u6d0b\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5929\u6d25\u592a\u5e73\u6d0b\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u82ef\u78fa\u9178\u6c28\u6c2f\u5730\u5e73\u7247",
+                "code": "XC08CAA187A001010101563",
+                "price": 2.37,
+                "ybPrice": 0.17,
+                "ybCompanyName": "\u5357\u4eac\u6d77\u8fb0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5357\u4eac\u6d77\u8fb0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7ef4\u751f\u7d20B6\u7247",
+                "code": "XA11HAW041A001010102957",
+                "price": null,
+                "ybPrice": 0.02,
+                "ybCompanyName": "\u5c71\u897f\u946b\u715c\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5c71\u897f\u946b\u715c\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u53cc\u9ec4\u8fde\u53e3\u670d\u6db2",
+                "code": "ZA01BAS0839010103095",
+                "price": 15.07,
+                "ybPrice": 2.51,
+                "ybCompanyName": "\u6cb3\u5357\u592a\u9f99\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6cb3\u5357\u592a\u9f99\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u78b3\u9178\u9499D3\u7247",
+                "code": "XA12AXT013A001010501421",
+                "price": 64.98,
+                "ybPrice": 1.08,
+                "ybCompanyName": "\u60e0\u6c0f\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u60e0\u6c0f\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4f24\u6e7f\u6b62\u75db\u818f",
+                "code": "ZA16CAS0277020203050",
+                "price": null,
+                "ybPrice": 6.0,
+                "ybCompanyName": "\u6cb3\u5357\u7f9a\u9510\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6cb3\u5357\u7f9a\u9510\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u78b3\u9178\u9499D3\u7247(\u2160)",
+                "code": "XA12AXT201A001010305805",
+                "price": 46.4,
+                "ybPrice": 0.77,
+                "ybCompanyName": "\u5c71\u897f\u540c\u8fbe\u836f\u4e1a\u6709\u9650\u516c\u53f8,\u6cb3\u5317\u767e\u5584\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d77\u5357\u8d5b\u7acb\u514b\u836f\u4e1a\u6709\u9650\u516c\u53f8,\u5c71\u897f\u540c\u8fbe\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c2f\u6c99\u5766\u94be\u7247",
+                "code": "XC09CAL245A001020204647",
+                "price": 8.92,
+                "ybPrice": 0.64,
+                "ybCompanyName": "\u6d59\u6c5f\u534e\u6d77\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u534e\u6d77\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8fde\u82b1\u6e05\u54b3\u7247",
+                "code": "ZA06BCL0468010102767",
+                "price": 30.96,
+                "ybPrice": 1.29,
+                "ybCompanyName": "\u77f3\u5bb6\u5e84\u4ee5\u5cad\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u5bb6\u5e84\u4ee5\u5cad\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8349\u9178\u827e\u53f8\u897f\u915e\u666e\u5170\u7247",
+                "code": "XN06ABA225A001010202292",
+                "price": 20.62,
+                "ybPrice": 2.95,
+                "ybCompanyName": "\u56db\u5ddd\u79d1\u4f26\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u56db\u5ddd\u79d1\u4f26\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u95e8\u51ac\u6c28\u9178\u9e1f\u6c28\u9178\u9897\u7c92",
+                "code": "XA05BAM076N001010101957",
+                "price": 39.5,
+                "ybPrice": 3.95,
+                "ybCompanyName": "\u6b66\u6c49\u542f\u745e\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6b66\u6c49\u542f\u745e\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5355\u785d\u9178\u5f02\u5c71\u68a8\u916f\u7f13\u91ca\u7247",
+                "code": "XC01DAD024A010010504012",
+                "price": 38.24,
+                "ybPrice": 1.06,
+                "ybCompanyName": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9c81\u5357\u8d1d\u7279\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u82aa\u9ec4\u901a\u79d8\u8f6f\u80f6\u56ca",
+                "code": "ZA03BAQ0076010102729",
+                "price": 43.92,
+                "ybPrice": 1.83,
+                "ybCompanyName": "\u795e\u5a01\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u795e\u5a01\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u590d\u65b9\u03b1-\u916e\u9178\u7247",
+                "code": "XV02DEF113A001010300177",
+                "price": 121.45,
+                "ybPrice": 1.21,
+                "ybCompanyName": "\u5317\u4eac\u798f\u5143\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u798f\u5143\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u590d\u65b9\u78fa\u80fa\u7532\u5641\u5511\u7247",
+                "code": "XJ01EEF309A001010204187",
+                "price": 17.42,
+                "ybPrice": 0.17,
+                "ybCompanyName": "\u5c71\u4e1c\u65b0\u534e\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5c71\u4e1c\u65b0\u534e\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u86ed\u86c7\u901a\u7edc\u80f6\u56ca",
+                "code": "ZA12IAZ0327010102384",
+                "price": 39.6,
+                "ybPrice": 1.65,
+                "ybCompanyName": "\u9655\u897f\u5065\u6c11\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9655\u897f\u5065\u6c11\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5432\u8fbe\u5e15\u80fa\u7247",
+                "code": "XC03BAY169A001010303182",
+                "price": 3.8,
+                "ybPrice": 0.06,
+                "ybCompanyName": "\u6fee\u9633\u5e02\u6c47\u5143\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6fee\u9633\u5e02\u6c47\u5143\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6069\u683c\u5217\u51c0\u7247",
+                "code": "XA10BKE079A001010601523",
+                "price": 58.5,
+                "ybPrice": 1.95,
+                "ybCompanyName": "\u6b63\u5927\u5929\u6674\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6b63\u5927\u5929\u6674\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5bcc\u9a6c\u9178\u4f0f\u8bfa\u62c9\u751f\u7247",
+                "code": "XA02BCF721A001010110289",
+                "price": 69.3,
+                "ybPrice": 9.9,
+                "ybCompanyName": "Takeda Pharmaceutical Company Limited, Hikari Plant",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Takeda Pharmaceutical Company Limited"
+            },
+            {
+                "name": "\u975e\u5e03\u53f8\u4ed6\u7247",
+                "code": "XM04AAF670A001010404522",
+                "price": 51.48,
+                "ybPrice": 1.84,
+                "ybCompanyName": "\u676d\u5dde\u6731\u517b\u5fc3\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u676d\u5dde\u6731\u517b\u5fc3\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u963f\u5229\u6c99\u5766\u916f\u7247",
+                "code": "XC09CAA284A001010200553",
+                "price": 60.2,
+                "ybPrice": 4.3,
+                "ybCompanyName": "\u6df1\u5733\u4fe1\u7acb\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6df1\u5733\u4fe1\u7acb\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u767e\u4ee4\u80f6\u56ca",
+                "code": "ZA09FAB0148010104520",
+                "price": 43.26,
+                "ybPrice": 1.03,
+                "ybCompanyName": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6709\u9650\u516c\u53f8,\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6c5f\u4e1c\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5c3c\u9ea6\u89d2\u6797\u7247",
+                "code": "XC04AEN041A001020101533",
+                "price": 16.22,
+                "ybPrice": 0.68,
+                "ybCompanyName": "\u6606\u5c71\u9f99\u706f\u745e\u8fea\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6606\u5c71\u9f99\u706f\u745e\u8fea\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5384\u8d1d\u6c99\u5766\u6c22\u6c2f\u567b\u55ea\u7247",
+                "code": "XC09DAE004A001010604647",
+                "price": 23.77,
+                "ybPrice": 1.13,
+                "ybCompanyName": "\u6d59\u6c5f\u534e\u6d77\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u534e\u6d77\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u8fbe\u6cca\u897f\u6c40\u7247",
+                "code": "XG04BED214A001010302180",
+                "price": 100.73,
+                "ybPrice": 33.58,
+                "ybCompanyName": "\u56db\u5ddd\u79d1\u4f26\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u56db\u5ddd\u79d1\u4f26\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5934\u5b62\u544b\u8f9b\u916f\u7247",
+                "code": "XJ01DCT162A017020202013",
+                "price": 6.03,
+                "ybPrice": 0.5,
+                "ybCompanyName": "\u6210\u90fd\u500d\u7279\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6210\u90fd\u500d\u7279\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u767e\u4ee4\u7247",
+                "code": "ZA09FAB0150010404520",
+                "price": 76.69,
+                "ybPrice": 1.07,
+                "ybCompanyName": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6c5f\u4e1c\u6709\u9650\u516c\u53f8,\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u676d\u5dde\u4e2d\u7f8e\u534e\u4e1c\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u76d0\u9178\u666e\u62c9\u514b\u7d22\u7247",
+                "code": "XN04BCP088A001010102770",
+                "price": 28.5,
+                "ybPrice": 0.95,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7c73\u62c9\u8d1d\u9686\u7f13\u91ca\u7247",
+                "code": "XG04BDM169A010020101076",
+                "price": 45.77,
+                "ybPrice": 4.58,
+                "ybCompanyName": "Avara Pharmaceutical Technologies Inc.",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Astellas Pharma Europe B.V."
+            },
+            {
+                "name": "\u5438\u5165\u7528\u5e03\u5730\u5948\u5fb7\u6df7\u60ac\u6db2",
+                "code": "XR03BAB165L023010301523",
+                "price": 31.86,
+                "ybPrice": 6.37,
+                "ybCompanyName": "\u6b63\u5927\u5929\u6674\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6b63\u5927\u5929\u6674\u836f\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c99\u5e93\u5df4\u66f2\u7f2c\u6c99\u5766\u94a0\u7247",
+                "code": "XC09DXS255A001010378679",
+                "price": 44.52,
+                "ybPrice": 3.18,
+                "ybCompanyName": "Novartis Farma S.p.A",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Novartis Pharma Schweiz AG"
+            },
+            {
+                "name": "\u963f\u5229\u6c99\u5766\u916f\u7247",
+                "code": "XC09CAA284A001010100553",
+                "price": 30.1,
+                "ybPrice": 4.3,
+                "ybCompanyName": "\u6df1\u5733\u4fe1\u7acb\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6df1\u5733\u4fe1\u7acb\u6cf0\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5eb7\u590d\u65b0\u6db2",
+                "code": "ZB01BAK0033040203893",
+                "price": 8.41,
+                "ybPrice": 4.21,
+                "ybCompanyName": "\u5185\u8499\u53e4\u4eac\u65b0\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5185\u8499\u53e4\u4eac\u65b0\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u683c\u5217\u9f50\u7279\u7f13\u91ca\u7247",
+                "code": "XA10BBG070A010010400177",
+                "price": 35.0,
+                "ybPrice": 0.58,
+                "ybCompanyName": "\u5317\u4eac\u798f\u5143\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8,\u6d59\u6c5f\u7231\u751f\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u798f\u5143\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u6c49\u9632\u5df1\u7532\u7d20\u7247",
+                "code": "XM02AXH005A001010204656",
+                "price": 57.84,
+                "ybPrice": 4.82,
+                "ybCompanyName": "\u6d59\u6c5f\u91d1\u534e\u5eb7\u6069\u8d1d\u751f\u7269\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u91d1\u534e\u5eb7\u6069\u8d1d\u751f\u7269\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u666e\u4f10\u4ed6\u6c40\u94a0\u7247",
+                "code": "XC10AAP086A001020104641",
+                "price": 28.54,
+                "ybPrice": 2.85,
+                "ybCompanyName": "\u701a\u6656\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u701a\u6656\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5b5f\u9c81\u53f8\u7279\u94a0\u7247",
+                "code": "XR03DCM082A001010178639",
+                "price": 33.3,
+                "ybPrice": 6.66,
+                "ybCompanyName": "Merck Sharp & Dohme Ltd.",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Merck Sharp & Dohme B.V."
+            },
+            {
+                "name": "\u76d0\u9178\u820d\u66f2\u6797\u7247",
+                "code": "XN06ABS066A001010304647",
+                "price": 28.37,
+                "ybPrice": 1.01,
+                "ybCompanyName": "\u6d59\u6c5f\u534e\u6d77\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u534e\u6d77\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u812f\u6c28\u9178\u6052\u683c\u5217\u51c0\u7247",
+                "code": "XA10BKH120A001020101445",
+                "price": 66.3,
+                "ybPrice": 6.63,
+                "ybCompanyName": "\u6c5f\u82cf\u6052\u745e\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6c5f\u82cf\u6052\u745e\u533b\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5bcc\u9a6c\u9178\u55b9\u786b\u5e73\u7247",
+                "code": "XN05AHK094A001010101649",
+                "price": 37.43,
+                "ybPrice": 1.25,
+                "ybCompanyName": "\u82cf\u5dde\u7b2c\u58f9\u5236\u836f\u6709\u9650\u516c\u53f8,\u82cf\u5dde\u7279\u745e\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u82cf\u5dde\u7b2c\u58f9\u5236\u836f\u6709\u9650\u516c\u53f8,\u82cf\u5dde\u7279\u745e\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5bcc\u9a6c\u9178\u6bd4\u7d22\u6d1b\u5c14\u7247",
+                "code": "XC07ABB087A001040181152",
+                "price": 32.2,
+                "ybPrice": 3.22,
+                "ybCompanyName": "\u9ed8\u514b\u5236\u836f(\u6c5f\u82cf)\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9ed8\u514b\u5236\u836f(\u6c5f\u82cf)\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u963f\u6258\u4f10\u4ed6\u6c40\u9499\u7247",
+                "code": "XC10AAA067A001010101187",
+                "price": 28.93,
+                "ybPrice": 4.13,
+                "ybCompanyName": "\u8f89\u745e\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8f89\u745e\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u901a\u8109\u964d\u7cd6\u80f6\u56ca",
+                "code": "ZA09GAT0209010102551",
+                "price": 28.2,
+                "ybPrice": 0.47,
+                "ybCompanyName": "\u4fdd\u5b9a\u5929\u6d69\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4fdd\u5b9a\u5929\u6d69\u5236\u836f\u6709\u9650\u516c\u53f8"
+            }
+        ],
+        "company_name": "\u77f3\u5bb6\u5e84\u795e\u5a01",
+        "start_date": "2023-09-11 01:24"
+    },
+    {
+        "ret_except_drug_list": [
+            {
+                "name": "\u5de6\u7532\u72b6\u817a\u7d20\u94a0\u7247",
+                "code": "XH03AAZ057A001010180788",
+                "price": 32.2,
+                "ybPrice": 24.88,
+                "ybCompanyName": "Merck Healthcare KGaA",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "MerckHealthcareKGaA"
+            },
+            {
+                "name": "\u76d0\u9178\u5766\u7d22\u7f57\u8f9b\u7f13\u91ca\u80f6\u56ca",
+                "code": "XG04CAT011E003010101076",
+                "price": 56.9,
+                "ybPrice": 37.64,
+                "ybCompanyName": "\u5b89\u65af\u6cf0\u6765\u5236\u836f(\u4e2d\u56fd)\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5b89\u65af\u6cf0\u6765\u5236\u836f(\u4e2d\u56fd)\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u785d\u9178\u5f02\u5c71\u68a8\u916f\u7247",
+                "code": "XC01DAX078A001010100931",
+                "price": 6.9,
+                "ybPrice": 5.2,
+                "ybCompanyName": "\u5929\u6d25\u592a\u5e73\u6d0b\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5929\u6d25\u592a\u5e73\u6d0b\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7ef4\u751f\u7d20C\u7247",
+                "code": "XA11GAW043A001010100886",
+                "price": 4.6,
+                "ybPrice": null,
+                "ybCompanyName": "\u5929\u6d25\u529b\u751f\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5929\u6d25\u529b\u751f\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5934\u5b62\u514b\u809f\u80f6\u56ca",
+                "code": "XJ01DDT073E001010602703",
+                "price": 7.7,
+                "ybPrice": 6.99,
+                "ybCompanyName": "\u534e\u5317\u5236\u836f\u6cb3\u5317\u534e\u6c11\u836f\u4e1a\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u534e\u5317\u5236\u836f\u6cb3\u5317\u534e\u6c11\u836f\u4e1a\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u745e\u5df4\u6d3e\u7279\u7247",
+                "code": "XA02BXR065A001010204619",
+                "price": 32.9,
+                "ybPrice": 30.68,
+                "ybCompanyName": "\u6d59\u6c5f\u5927\u51a2\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6d59\u6c5f\u5927\u51a2\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8fde\u82b1\u6e05\u761f\u9897\u7c92",
+                "code": "ZA04CAL0116010179263",
+                "price": 25.0,
+                "ybPrice": 24.3,
+                "ybCompanyName": "\u5317\u4eac\u4ee5\u5cad\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u4ee5\u5cad\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u96f7\u8d1d\u62c9\u5511\u94a0\u80a0\u6eb6\u7247",
+                "code": "XA02BCL043A012010105843",
+                "price": 15.3,
+                "ybPrice": 15.0,
+                "ybCompanyName": "\u53cc\u9e64\u836f\u4e1a(\u6d77\u5357)\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u53cc\u9e64\u836f\u4e1a(\u6d77\u5357)\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u9152\u77f3\u9178\u7f8e\u6258\u6d1b\u5c14\u7247",
+                "code": "XC07ABM062A001010202530",
+                "price": 4.2,
+                "ybPrice": 3.82,
+                "ybCompanyName": "\u9655\u897f\u6b65\u957f\u9ad8\u65b0\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u9655\u897f\u6b65\u957f\u9ad8\u65b0\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5bf9\u4e59\u9170\u6c28\u57fa\u915a\u7247",
+                "code": "XN02BED158A017010100969",
+                "price": 7.0,
+                "ybPrice": 0.7,
+                "ybCompanyName": "\u4e2d\u7f8e\u5929\u6d25\u53f2\u514b\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e2d\u7f8e\u5929\u6d25\u53f2\u514b\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5bf9\u4e59\u9170\u6c28\u57fa\u915a\u53e3\u670d\u6df7\u60ac\u6db2",
+                "code": "XN02BED158X002010100734",
+                "price": 34.8,
+                "ybPrice": 35.0,
+                "ybCompanyName": "\u4e0a\u6d77\u5f3a\u751f\u5236\u836f\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u4e0a\u6d77\u5f3a\u751f\u5236\u836f\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u84b2\u5730\u84dd\u6d88\u708e\u7247",
+                "code": "ZA04BAP0062010605867",
+                "price": 17.0,
+                "ybPrice": 4.2,
+                "ybCompanyName": "\u7518\u8083\u5cb7\u6d77\u5236\u836f\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u7518\u8083\u5cb7\u6d77\u5236\u836f\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u5065\u813e\u4e38",
+                "code": "ZA09ABJ0136010103082",
+                "price": 14.8,
+                "ybPrice": 14.9,
+                "ybCompanyName": "\u4ef2\u666f\u5b9b\u897f\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u6cb3\u5357\u6d4e\u4e16\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8fde\u82b1\u6e05\u54b3\u7247",
+                "code": "ZA06BCL0468010202767",
+                "price": 34.5,
+                "ybPrice": 30.96,
+                "ybCompanyName": "\u77f3\u5bb6\u5e84\u4ee5\u5cad\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u5bb6\u5e84\u4ee5\u5cad\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u4e01\u82ef\u915e\u8f6f\u80f6\u56ca",
+                "code": "XN07XXD130E002010102774",
+                "price": 3.6333,
+                "ybPrice": 3.36,
+                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u6069\u5fc5\u666e\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6069\u5fc5\u666e\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            }
+        ],
+        "company_name": "\u77f3\u5bb6\u5e84\u6da6\u6ea2\u7965",
+        "start_date": "2023-09-11 01:34"
+    },
+    {
+        "ret_except_drug_list": [
+            {
+                "name": "\u5355\u785d\u9178\u5f02\u5c71\u68a8\u916f\u7247",
+                "code": "XC01DAD024A001010100453",
+                "price": 15.5,
+                "ybPrice": 0,
+                "ybCompanyName": "\u624b\u52a8\u68c0\u67e5",
+                "wangResult": "\u624b\u52a8\u68c0\u67e5",
+                "hou_tai_company_name": "\u4e3d\u73e0\u96c6\u56e2\u4e3d\u73e0\u5236\u836f\u5382"
+            },
+            {
+                "name": "\u5384\u8d1d\u6c99\u5766\u6c22\u6c2f\u567b\u55ea\u7247",
+                "code": "XC09DAE004A001010604647",
+                "price": 25.0,
+                "ybPrice": 0,
+                "ybCompanyName": "\u624b\u52a8\u68c0\u67e5",
+                "wangResult": "\u624b\u52a8\u68c0\u67e5",
+                "hou_tai_company_name": "\u6d59\u6c5f\u534e\u6d77\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u5965\u59a5\u73e0\u5355\u6297\u6ce8\u5c04\u6db2",
+                "code": "XL01XCA356B002010181735",
+                "price": 9369.0,
+                "ybPrice": null,
+                "ybCompanyName": "Roche Diagnostics GmbH",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Roche Diagnostics GmbH"
+            },
+            {
+                "name": "\u831a\u8fbe\u7279\u7f57\u683c\u9686\u6eb4\u94f5\u5438\u5165\u7c89\u96fe\u5242",
+                "code": "XR03ALY302L031010678672",
+                "price": 229.5,
+                "ybPrice": 0,
+                "ybCompanyName": "\u624b\u52a8\u68c0\u67e5",
+                "wangResult": "\u624b\u52a8\u68c0\u67e5",
+                "hou_tai_company_name": "Novartis Pharma Schweiz AG"
+            },
+            {
+                "name": "\u7f57\u6c99\u53f8\u4ed6\u80f6\u56ca",
+                "code": "XB03XAL373E001020180523",
+                "price": 54.0,
+                "ybPrice": 162.0,
+                "ybCompanyName": "\u73d0\u535a\u8fdb(\u4e2d\u56fd)\u533b\u836f\u6280\u672f\u5f00\u53d1\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u73d0\u535a\u8fdb(\u4e2d\u56fd)\u533b\u836f\u6280\u672f\u5f00\u53d1\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u67b8\u6a7c\u9178\u4f0a\u6c99\u4f50\u7c73\u80f6\u56ca",
+                "code": "XL01XXY306E001030179422",
+                "price": 4933.0,
+                "ybPrice": 4932.9233,
+                "ybCompanyName": "Haupt Pharma\u3000Amareg GmbH",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Takeda Pharma A/S"
+            },
+            {
+                "name": "\u963f\u83ab\u897f\u6797\u80f6\u56ca",
+                "code": "XJ01CAA040E001020200600",
+                "price": 10.66,
+                "ybPrice": 15.0,
+                "ybCompanyName": "\u73e0\u6d77\u8054\u90a6\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8\u4e2d\u5c71\u5206\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u73e0\u6d77\u8054\u90a6\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8\u4e2d\u5c71\u5206\u516c\u53f8"
+            },
+            {
+                "name": "\u69d0\u8033\u9897\u7c92",
+                "code": "ZC02AAH0267010101635",
+                "price": 19.33,
+                "ybPrice": 1.0,
+                "ybCompanyName": "\u542f\u4e1c\u76d6\u5929\u529b\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u542f\u4e1c\u76d6\u5929\u529b\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u7f13\u75db\u6b62\u6cfb\u8f6f\u80f6\u56ca",
+                "code": "ZA08BAH0466010203904",
+                "price": 107.28,
+                "ybPrice": 17.88,
+                "ybCompanyName": "\u5eb7\u81e3\u836f\u4e1a(\u5185\u8499\u53e4)\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5eb7\u81e3\u836f\u4e1a(\u5185\u8499\u53e4)\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+            },
+            {
+                "name": "\u91d1\u82b1\u6e05\u611f\u9897\u7c92",
+                "code": "ZA06CAJ0740010100189",
+                "price": 53.4,
+                "ybPrice": 8.9,
+                "ybCompanyName": "\u805a\u534f\u660c(\u5317\u4eac)\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u805a\u534f\u660c(\u5317\u4eac)\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u9a6c\u6765\u9178\u963f\u6cd5\u66ff\u5c3c\u7247",
+                "code": "LRT",
+                "price": 1400.0,
+                "ybPrice": 0,
+                "ybCompanyName": "\u624b\u52a8\u68c0\u67e5",
+                "wangResult": "\u624b\u52a8\u68c0\u67e5",
+                "hou_tai_company_name": "\u4e0a\u6d77\u52c3\u6797\u683c\u6bb7\u683c\u7ff0\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u745e\u683c\u5217\u5948\u7247",
+                "code": "XA10BXR068A001010101444",
+                "price": 0.42,
+                "ybPrice": 0,
+                "ybCompanyName": "\u624b\u52a8\u68c0\u67e5",
+                "wangResult": "\u624b\u52a8\u68c0\u67e5",
+                "hou_tai_company_name": "\u6c5f\u82cf\u8c6a\u68ee\u836f\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u8fde\u82b1\u6e05\u761f\u9897\u7c92",
+                "code": "ZA04CAL0116010279263",
+                "price": 29.8,
+                "ybPrice": 27.0,
+                "ybCompanyName": "\u5317\u4eac\u4ee5\u5cad\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u4ee5\u5cad\u836f\u4e1a\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u82ef\u7532\u9178\u963f\u683c\u5217\u6c40\u7247",
+                "code": "XA10BHA283A001010179133",
+                "price": 86.0,
+                "ybPrice": 85.0,
+                "ybCompanyName": "Takeda Pharmaceutical Company Limited",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "Takeda Ireland Limited"
+            },
+            {
+                "name": "\u85ff\u9999\u6b63\u6c14\u6ef4\u4e38",
+                "code": "ZA02AAH0434010400941",
+                "price": 1.45,
+                "ybPrice": 0,
+                "ybCompanyName": "\u624b\u52a8\u68c0\u67e5",
+                "wangResult": "\u624b\u52a8\u68c0\u67e5",
+                "hou_tai_company_name": "\u5929\u58eb\u529b\u533b\u836f\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
+                "name": "\u96f7\u73e0\u5355\u6297\u6ce8\u5c04\u6db2",
+                "code": "XS01LAL328B002010178679",
+                "price": 3950.0,
+                "ybPrice": 0,
+                "ybCompanyName": "\u624b\u52a8\u68c0\u67e5",
+                "wangResult": "\u624b\u52a8\u68c0\u67e5",
+                "hou_tai_company_name": "Novartis Pharma Schweiz AG"
+            }
+        ],
+        "company_name": "\u79e6\u7687\u5c9b\u4e50\u4ec1\u5802",
+        "start_date": "2023-09-11 01:48"
+    },
+    {
+        "ret_except_drug_list": [
+            {
                 "name": "\u963f\u6614\u83ab\u53f8\u5206\u6563\u7247",
                 "code": "XC10AXA076A006010404010",
                 "price": 75.18,
@@ -12,6 +3573,6 @@
             }
         ],
         "company_name": "\u5f20\u5bb6\u53e3\u7b2c\u4e94\u533b\u9662",
-        "start_date": "2023-09-10 18:02"
+        "start_date": "2023-09-11 01:49"
     }
 ]
