@@ -66,7 +66,7 @@
             }
         ],
         "company_name": "\u79e6\u7687\u5c9b\u534e\u6da6",
-        "start_date": "2023-09-10 20:37"
+        "start_date": "2023-09-11 21:51"
     },
     {
         "ret_except_drug_list": [
@@ -96,15 +96,6 @@
                 "ybCompanyName": "\u9752\u5c9b\u53cc\u9cb8\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
                 "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
                 "hou_tai_company_name": "\u9752\u5c9b\u53cc\u9cb8\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
-            },
-            {
-                "name": "\u683c\u5217\u7f8e\u8132\u7247",
-                "code": "XA10BBG069A001010305530",
-                "price": 19.55,
-                "ybPrice": 0.81,
-                "ybCompanyName": "\u8d35\u5dde\u5929\u5b89\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
-                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
-                "hou_tai_company_name": "\u8d35\u5dde\u5929\u5b89\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
             },
             {
                 "name": "\u5c3c\u9ea6\u89d2\u6797\u7247",
@@ -2933,6 +2924,15 @@
                 "hou_tai_company_name": "\u6cb3\u5357\u7f9a\u9510\u5236\u836f\u80a1\u4efd\u6709\u9650\u516c\u53f8"
             },
             {
+                "name": "\u683c\u5217\u7f8e\u8132\u7247",
+                "code": "XA10BBG069A001010305530",
+                "price": 19.55,
+                "ybPrice": 0.81,
+                "ybCompanyName": "\u8d35\u5dde\u5929\u5b89\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u8d35\u5dde\u5929\u5b89\u836f\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+            },
+            {
                 "name": "\u78b3\u9178\u9499D3\u7247(\u2160)",
                 "code": "XA12AXT201A001010305805",
                 "price": 46.4,
@@ -3267,7 +3267,7 @@
             }
         ],
         "company_name": "\u77f3\u5bb6\u5e84\u795e\u5a01",
-        "start_date": "2023-09-11 01:24"
+        "start_date": "2023-09-12 02:49"
     },
     {
         "ret_except_drug_list": [
@@ -3389,6 +3389,15 @@
                 "hou_tai_company_name": "\u6cb3\u5357\u6d4e\u4e16\u836f\u4e1a\u6709\u9650\u516c\u53f8"
             },
             {
+                "name": "\u52a0\u5473\u900d\u9065\u4e38",
+                "code": "ZA13AAJ0059010100169",
+                "price": 1.6,
+                "ybPrice": 16.0,
+                "ybCompanyName": "\u5317\u4eac\u540c\u4ec1\u5802\u79d1\u6280\u53d1\u5c55\u80a1\u4efd\u6709\u9650\u516c\u53f8\u5236\u836f\u5382",
+                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
+                "hou_tai_company_name": "\u5317\u4eac\u540c\u4ec1\u5802\u79d1\u6280\u53d1\u5c55\u80a1\u4efd\u6709\u9650\u516c\u53f8\u5236\u836f\u5382"
+            },
+            {
                 "name": "\u8fde\u82b1\u6e05\u54b3\u7247",
                 "code": "ZA06BCL0468010202767",
                 "price": 34.5,
@@ -3408,7 +3417,7 @@
             }
         ],
         "company_name": "\u77f3\u5bb6\u5e84\u6da6\u6ea2\u7965",
-        "start_date": "2023-09-11 01:34"
+        "start_date": "2023-09-12 02:59"
     },
     {
         "ret_except_drug_list": [
@@ -3558,7 +3567,7 @@
             }
         ],
         "company_name": "\u79e6\u7687\u5c9b\u4e50\u4ec1\u5802",
-        "start_date": "2023-09-11 01:48"
+        "start_date": "2023-09-12 03:12"
     },
     {
         "ret_except_drug_list": [
@@ -3573,6 +3582,6 @@
             }
         ],
         "company_name": "\u5f20\u5bb6\u53e3\u7b2c\u4e94\u533b\u9662",
-        "start_date": "2023-09-11 01:49"
+        "start_date": "2023-09-12 03:13"
     }
 ]
