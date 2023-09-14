@@ -66,7 +66,7 @@
             }
         ],
         "company_name": "\u79e6\u7687\u5c9b\u534e\u6da6",
-        "start_date": "2023-09-13 10:54"
+        "start_date": "2023-09-14 09:06"
     },
     {
         "ret_except_drug_list": [
@@ -3356,15 +3356,6 @@
                 "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u6b27\u610f\u836f\u4e1a\u6709\u9650\u516c\u53f8"
             },
             {
-                "name": "\u963f\u83ab\u897f\u6797\u80f6\u56ca",
-                "code": "XJ01CAA040E001030402777",
-                "price": 16.0,
-                "ybPrice": 0.8,
-                "ybCompanyName": "\u77f3\u836f\u96c6\u56e2\u4e2d\u8bfa\u836f\u4e1a(\u77f3\u5bb6\u5e84)\u6709\u9650\u516c\u53f8",
-                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
-                "hou_tai_company_name": "\u77f3\u836f\u96c6\u56e2\u4e2d\u8bfa\u836f\u4e1a(\u77f3\u5bb6\u5e84)\u6709\u9650\u516c\u53f8"
-            },
-            {
                 "name": "\u76d0\u9178\u666e\u62c9\u514b\u7d22\u7247",
                 "code": "XN04BCP088A001010102770",
                 "price": 28.5,
@@ -4103,15 +4094,6 @@
                 "hou_tai_company_name": "Boehringer Ingelheim International GmbH"
             },
             {
-                "name": "\u82ef\u78fa\u9178\u5de6\u6c28\u6c2f\u5730\u5e73\u7247",
-                "code": "XC08CAZ067A001010203447",
-                "price": 29.26,
-                "ybPrice": 2.09,
-                "ybCompanyName": "\u65bd\u6167\u8fbe\u836f\u4e1a\u96c6\u56e2(\u5409\u6797)\u6709\u9650\u516c\u53f8",
-                "wangResult": "\u4ef7\u683c\u4e0d\u4e00\u81f4",
-                "hou_tai_company_name": "\u65bd\u6167\u8fbe\u836f\u4e1a\u96c6\u56e2(\u5409\u6797)\u6709\u9650\u516c\u53f8"
-            },
-            {
                 "name": "\u78b3\u9178\u6c22\u94a0\u7247",
                 "code": "XA02AHT018A001010100886",
                 "price": 9.0,
@@ -4194,7 +4176,7 @@
             }
         ],
         "company_name": "\u77f3\u5bb6\u5e84\u795e\u5a01",
-        "start_date": "2023-09-13 15:39"
+        "start_date": "2023-09-14 10:53"
     },
     {
         "ret_except_drug_list": [
@@ -4344,7 +4326,7 @@
             }
         ],
         "company_name": "\u77f3\u5bb6\u5e84\u6da6\u6ea2\u7965",
-        "start_date": "2023-09-13 15:49"
+        "start_date": "2023-09-14 11:02"
     },
     {
         "ret_except_drug_list": [
@@ -4494,7 +4476,7 @@
             }
         ],
         "company_name": "\u79e6\u7687\u5c9b\u4e50\u4ec1\u5802",
-        "start_date": "2023-09-13 16:02"
+        "start_date": "2023-09-14 11:14"
     },
     {
         "ret_except_drug_list": [
@@ -4509,6 +4491,6 @@
             }
         ],
         "company_name": "\u5f20\u5bb6\u53e3\u7b2c\u4e94\u533b\u9662",
-        "start_date": "2023-09-13 16:03"
+        "start_date": "2023-09-14 11:15"
     }
 ]
